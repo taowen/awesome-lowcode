@@ -31,3 +31,4 @@
 * [React.js 可视化编辑工具](https://juejin.im/post/5d7ae944f265da03c5033e38)
 * [面向 Model 编程的前端架构设计](https://zhuanlan.zhihu.com/p/144157268)
 * [对低代码、零代码产品的一些看法](https://zhuanlan.zhihu.com/p/156887528)
+* [对 aPaaS 的产品认知](https://zhuanlan.zhihu.com/p/149801853)
