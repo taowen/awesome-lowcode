@@ -6,9 +6,6 @@
 
 <img src="https://tool.oschina.net/action/qrcode/generate?data=https%3A%2F%2Fweixin.qq.com%2Fg%2FAQYAAK1ZiYy-lnLzglyoY0KnnVPu0Du-rJNvSPFpRcb_I48PqSyP-NcqI7Y8KP8-&output=image%2Fgif&error=L&type=0&margin=0&size=4&1595461784114" />
 
-
-
-
 ## 全栈平台
 
 * 阿里-云凤蝶
@@ -39,12 +36,6 @@
 
 * [黑帕云](https://hipacloud.com/)
 
-## 国外
-
-* https://paperbits.io/
-* https://builderx.io/
-* https://github.com/BuilderIO/builder
-
 ## 行业综述
 
 * [精读《对低代码搭建的理解》](https://zhuanlan.zhihu.com/p/161783546)
@@ -57,3 +48,10 @@
 
 * [面向 Model 编程的前端架构设计](https://zhuanlan.zhihu.com/p/144157268)
 * [流动的数据——使用 RxJS 构造复杂单页应用的数据逻辑](https://github.com/xufei/blog/issues/38)
+
+## 国外
+
+* https://paperbits.io/
+* https://builderx.io/
+* https://github.com/BuilderIO/builder
+* FoC 聊天记录：https://marianoguerra.github.io/future-of-coding-weekly/history/?fromDate=2017-06-13&toDate=2017-06-14&channel=general&filter=
