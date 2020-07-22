@@ -45,6 +45,7 @@
 * [React.js 可视化编辑工具](https://juejin.im/post/5d7ae944f265da03c5033e38)
 * [对低代码、零代码产品的一些看法](https://zhuanlan.zhihu.com/p/156887528)
 * [对 aPaaS 的产品认知](https://zhuanlan.zhihu.com/p/149801853)
+* [一个简单易用的电商活动页面生成系统](https://juejin.im/post/5cf328706fb9a07f042030f0)
 
 ## 技术点
 
