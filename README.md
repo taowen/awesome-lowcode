@@ -26,6 +26,7 @@
 * [ivx](https://www.ivx.cn/index)
 * [panel-magic](https://ricbet.github.io/panel-magic/)
   * [基于 Angular 的小程序可视化编辑器 Panel-Magic 的实现解析](https://zhuanlan.zhihu.com/p/101677992)
+* [上线了](https://www.sxl.cn/)
   
 ## 国外
 
