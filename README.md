@@ -32,6 +32,7 @@
   * [基于 Angular 的小程序可视化编辑器 Panel-Magic 的实现解析](https://zhuanlan.zhihu.com/p/101677992)
 * [阿里-imgcook](https://imgcook.taobao.org/)
 * [阿里-gaea-editor](https://github.com/ascoders/gaea-editor)
+* [blockVisualEditor](https://github.com/sww1230/blockVisualEditor)
 
 ## 办公系统 a.k.a no-code
 
