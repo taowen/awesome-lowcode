@@ -12,5 +12,6 @@
   * [长夜未央——企业级研发提效的下一阶段](https://zhuanlan.zhihu.com/p/66474056)
   * [十倍效能提升——Web 基础研发体系的建立](https://zhuanlan.zhihu.com/p/34790596)
 * [阿里-宜搭](https://www.aliwork.com/)
+* [阿里-飞冰](https://ice.work/)
 * [点石](https://www.h5ds.com/)
 * [ivx](https://www.ivx.cn/index)
