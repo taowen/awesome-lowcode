@@ -29,3 +29,4 @@
 
 * [页面可视化搭建工具前生今世](https://github.com/CntChen/cntchen.github.io/issues/15)
 * [React.js 可视化编辑工具](https://juejin.im/post/5d7ae944f265da03c5033e38)
+* [面向 Model 编程的前端架构设计](https://zhuanlan.zhihu.com/p/144157268)
