@@ -23,7 +23,6 @@
 * [奥哲](https://www.authine.com/)
 * [点石](https://www.h5ds.com/)
 * [ivx](https://www.ivx.cn/index)
-
   
 ## 页面搭建
 
@@ -33,6 +32,7 @@
 * [阿里-imgcook](https://imgcook.taobao.org/)
 * [阿里-gaea-editor](https://github.com/ascoders/gaea-editor)
 * [blockVisualEditor](https://github.com/sww1230/blockVisualEditor)
+* [pager](https://github.com/laispace/pager)
 
 ## 办公系统 a.k.a no-code
 
