@@ -32,3 +32,4 @@
 * [面向 Model 编程的前端架构设计](https://zhuanlan.zhihu.com/p/144157268)
 * [对低代码、零代码产品的一些看法](https://zhuanlan.zhihu.com/p/156887528)
 * [对 aPaaS 的产品认知](https://zhuanlan.zhihu.com/p/149801853)
+* [流动的数据——使用 RxJS 构造复杂单页应用的数据逻辑](https://github.com/xufei/blog/issues/38)
