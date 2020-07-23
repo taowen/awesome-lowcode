@@ -61,6 +61,7 @@
   * [【第1524期】页面可视化搭建工具技术要点](https://mp.weixin.qq.com/s/90JJAFhGokKmicOQZxdAGg)
 * [panel-magic](https://ricbet.github.io/panel-magic/)
   * [基于 Angular 的小程序可视化编辑器 Panel-Magic 的实现解析](https://zhuanlan.zhihu.com/p/101677992)
+* [百度外卖-blocks](https://github.com/Eyot424/blocks)
 
 ## 办公系统 a.k.a no-code
 
