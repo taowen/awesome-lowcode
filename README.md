@@ -35,6 +35,8 @@
 * 乘法云
   * [状态管理的问题是什么](https://github.com/mulcloud/state-management-demo)
 * [数式科技](https://shushi.pro/technology)
+* [明道云](https://www.mingdao.com/)
+* [简道云](https://www.jiandaoyun.com/)
   
 ## 页面搭建
 
