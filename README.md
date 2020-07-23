@@ -32,15 +32,15 @@
 ## 页面搭建
 
 * [上线了](https://www.sxl.cn/)
-* [panel-magic](https://ricbet.github.io/panel-magic/)
+* [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)[panel-magic](https://ricbet.github.io/panel-magic/)
   * [基于 Angular 的小程序可视化编辑器 Panel-Magic 的实现解析](https://zhuanlan.zhihu.com/p/101677992)
 * [阿里-imgcook](https://imgcook.taobao.org/)
-* [阿里-gaea-editor](https://github.com/ascoders/gaea-editor)
-* [blockVisualEditor](https://github.com/sww1230/blockVisualEditor)
-* [pager](https://github.com/laispace/pager)
+* [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)[阿里-gaea-editor](https://github.com/ascoders/gaea-editor)
+* [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)[blockVisualEditor](https://github.com/sww1230/blockVisualEditor)
+* [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)[pager](https://github.com/laispace/pager)
 * 政采云-鲁班
   * [前端工程实践之可视化搭建系统（一）](https://juejin.im/post/5d8774bff265da03ae78b2a1)
-* [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)[运满满-码良](https://github.com/ymm-tech/gods-pen)
+* [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)[运满满-码良](https://github.com/ymm-tech/gods-pen)
   * [如何设计高扩展的在线网页制作平台](https://juejin.im/post/5bd83daee51d4524b50d23b5)
 
 ## 办公系统 a.k.a no-code
