@@ -20,6 +20,8 @@
 * [阿里-飞冰](https://ice.work/)
 * 阿里-天马
    * [如何设计阿里经济体都在用的搭建服务—天马](https://zhuanlan.zhihu.com/p/137470317)
+* 腾讯-积木
+   * [积木系统v2@江源.pptx](https://vdisk.weibo.com/s/cSKQveSBDMPco)
 * [奥哲](https://www.authine.com/)
 * [点石](https://www.h5ds.com/)
 * [ivx](https://www.ivx.cn/index)
