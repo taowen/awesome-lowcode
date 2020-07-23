@@ -33,25 +33,28 @@
 
 * 京东-通天塔
   * [京东商城活动页面构建系统——通天塔](https://blog.csdn.net/zl1zl2zl3/article/details/84661421)
+* [阿里-imgcook](https://imgcook.taobao.org/)
+* [上线了](https://www.sxl.cn/)
+
+## ![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)
+
 * [阿里-formilyjs](https://formilyjs.org/)
   * [MegaLayout - 下一代Formily表单布局解决方案](https://zhuanlan.zhihu.com/p/133906363)
-* [阿里-imgcook](https://imgcook.taobao.org/)
-* [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)阿里-gaea-editor](https://github.com/ascoders/gaea-editor)
+* [阿里-gaea-editor](https://github.com/ascoders/gaea-editor)
   * [可视化在线编辑器架构设计](https://www.jianshu.com/p/840e0b0b2c6a)
-* [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)blockVisualEditor](https://github.com/sww1230/blockVisualEditor)
-* [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)pager](https://github.com/laispace/pager)
+* [blockVisualEditor](https://github.com/sww1230/blockVisualEditor)
+* [pager](https://github.com/laispace/pager)
 * 政采云-鲁班
   * [前端工程实践之可视化搭建系统（一）](https://juejin.im/post/5d8774bff265da03ae78b2a1)
-* [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)运满满-码良](https://github.com/ymm-tech/gods-pen)
+* [运满满-码良](https://github.com/ymm-tech/gods-pen)
   * [如何设计高扩展的在线网页制作平台](https://juejin.im/post/5bd83daee51d4524b50d23b5)
-* [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)X-Page-Editor](https://github.com/OXOYO/X-Page-Editor-Vue)
-* [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)Vue-Layout](https://github.com/jaweii/Vue-Layout)
-* [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)antd-visual-editor](https://github.com/xinyu198736/antd-visual-editor)
-* [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)pipeline-editor](https://github.com/page-pipepline/pipeline-editor)
+* [X-Page-Editor](https://github.com/OXOYO/X-Page-Editor-Vue)
+* [Vue-Layout](https://github.com/jaweii/Vue-Layout)
+* [antd-visual-editor](https://github.com/xinyu198736/antd-visual-editor)
+* [pipeline-editor](https://github.com/page-pipepline/pipeline-editor)
   * [【第1524期】页面可视化搭建工具技术要点](https://mp.weixin.qq.com/s/90JJAFhGokKmicOQZxdAGg)
-* [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)panel-magic](https://ricbet.github.io/panel-magic/)
+* [panel-magic](https://ricbet.github.io/panel-magic/)
   * [基于 Angular 的小程序可视化编辑器 Panel-Magic 的实现解析](https://zhuanlan.zhihu.com/p/101677992)
-* [上线了](https://www.sxl.cn/)
 
 ## 办公系统 a.k.a no-code
 
