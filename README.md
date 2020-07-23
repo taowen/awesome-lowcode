@@ -22,6 +22,7 @@
    * [如何设计阿里经济体都在用的搭建服务—天马](https://zhuanlan.zhihu.com/p/137470317)
 * 腾讯-积木
    * [积木系统v2@江源.pptx](https://vdisk.weibo.com/s/cSKQveSBDMPco)
+   * [积木系统，将运营系统做到极致](https://cloud.tencent.com/developer/article/1055079)
 * [奥哲](https://www.authine.com/)
 * [点石](https://www.h5ds.com/)
 * [ivx](https://www.ivx.cn/index)
