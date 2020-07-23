@@ -30,6 +30,8 @@
 * [点石](https://www.h5ds.com/)
 * [ivx](https://www.ivx.cn/index)
   * [ih5](https://www.ih5.cn/)
+* 闪电数据管理
+  * [闪电数据管理 —— 无代码数据管理(开发)系统](https://zhuanlan.zhihu.com/p/162964986)
   
 ## 页面搭建
 
