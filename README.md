@@ -37,6 +37,8 @@
 * [上线了](https://www.sxl.cn/)
 * 转转-魔方
   * [持续迭代的电商可视化运营页面生成系统](https://www.cnblogs.com/zhuanzhuanfe/p/10500786.html)
+* 人人贷-活动运营平台
+  * [活动运营自动化平台实践](https://zhuanlan.zhihu.com/p/68108055)
 
 ## ![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)
 
