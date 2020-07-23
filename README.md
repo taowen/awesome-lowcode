@@ -38,6 +38,8 @@
 * [阿里-gaea-editor](https://github.com/ascoders/gaea-editor)
 * [blockVisualEditor](https://github.com/sww1230/blockVisualEditor)
 * [pager](https://github.com/laispace/pager)
+* 政采云-鲁班
+  * [前端工程实践之可视化搭建系统（一）](https://juejin.im/post/5d8774bff265da03ae78b2a1)
 
 ## 办公系统 a.k.a no-code
 
