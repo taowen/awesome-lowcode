@@ -35,6 +35,8 @@
   * [京东商城活动页面构建系统——通天塔](https://blog.csdn.net/zl1zl2zl3/article/details/84661421)
 * [阿里-imgcook](https://imgcook.taobao.org/)
 * [上线了](https://www.sxl.cn/)
+* 转转-魔方
+  * [持续迭代的电商可视化运营页面生成系统](https://www.cnblogs.com/zhuanzhuanfe/p/10500786.html)
 
 ## ![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)
 
