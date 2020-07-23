@@ -56,6 +56,7 @@
   * [MegaLayout - 下一代Formily表单布局解决方案](https://zhuanlan.zhihu.com/p/133906363)
 * [阿里-gaea-editor](https://github.com/ascoders/gaea-editor)
   * [可视化在线编辑器架构设计](https://www.jianshu.com/p/840e0b0b2c6a)
+* [阿里-sula](https://github.com/umijs/sula)
 * [blockVisualEditor](https://github.com/sww1230/blockVisualEditor)
 * [pager](https://github.com/laispace/pager)
 * 政采云-鲁班
