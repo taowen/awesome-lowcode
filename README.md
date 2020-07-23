@@ -41,6 +41,7 @@
 * [广州天翎myApps](http://www.teemlink.com/)
 * [活字格](https://www.grapecity.com.cn/solutions/huozige)
 * [起步科技](http://www.wex5.com/)
+* [金蝶云-苍穹](http://www.kingdee.com/products/cosmic)
 
 ## 页面搭建
 
