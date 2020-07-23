@@ -43,6 +43,7 @@
 * [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)运满满-码良](https://github.com/ymm-tech/gods-pen)
   * [如何设计高扩展的在线网页制作平台](https://juejin.im/post/5bd83daee51d4524b50d23b5)
 * [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)X-Page-Editor](https://github.com/OXOYO/X-Page-Editor-Vue)
+* [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)Vue-Layout](https://github.com/jaweii/Vue-Layout)
 
 ## 办公系统 a.k.a no-code
 
