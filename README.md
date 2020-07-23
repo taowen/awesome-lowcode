@@ -39,6 +39,8 @@
   * [持续迭代的电商可视化运营页面生成系统](https://www.cnblogs.com/zhuanzhuanfe/p/10500786.html)
 * 人人贷-活动运营平台
   * [活动运营自动化平台实践](https://zhuanlan.zhihu.com/p/68108055)
+* 美团-乐高
+  * [美团外卖前端可视化界面组装平台 —— 乐高](https://zhuanlan.zhihu.com/p/27288444)
 
 ## ![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)
 
