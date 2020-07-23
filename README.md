@@ -2,7 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/taowen/awesome-lowcode)
 
-扫码加入微信群
+扫码加入从业者微信群
 
 <img src="https://tool.oschina.net/action/qrcode/generate?data=https%3A%2F%2Fweixin.qq.com%2Fg%2FAQYAAK1ZiYy-lnLzglyoY0KnnVPu0Du-rJNvSPFpRcb_I48PqSyP-NcqI7Y8KP8-&output=image%2Fgif&error=L&type=0&margin=0&size=4&1595461784114" />
 
