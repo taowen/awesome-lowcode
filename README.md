@@ -40,7 +40,8 @@
 * [炎黄盈动](https://www.actionsoft.com.cn/)
 * [无远开发平台](https://wuyuan.io/)
 * [广州天翎myApps](http://www.teemlink.com/)
-  
+* [活字格](https://www.grapecity.com.cn/solutions/huozige)
+
 ## 页面搭建
 
 仅包含前端部分的 low code 平台
