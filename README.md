@@ -66,6 +66,7 @@
   * [基于 Angular 的小程序可视化编辑器 Panel-Magic 的实现解析](https://zhuanlan.zhihu.com/p/101677992)
 * [百度外卖-blocks](https://github.com/Eyot424/blocks)
   * [百度外卖如何做到前端开发配置化](https://juejin.im/post/59536bad6fb9a06ba024d96d)
+* [Esview ](https://github.com/furioussoul/esview)
 
 ## 办公系统 a.k.a no-code
 
