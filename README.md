@@ -132,4 +132,8 @@
 * https://reactstudio.com/
 * https://webcodesk.com/
 * https://github.com/vuegg/vuegg
+* https://www.wix.com/
+* https://university.webflow.com/
+* https://www.framer.com/
+* https://www.figma.com/
 * FoC 聊天记录：https://marianoguerra.github.io/future-of-coding-weekly/history/?fromDate=2017-06-13&toDate=2017-06-14&channel=general&filter=
