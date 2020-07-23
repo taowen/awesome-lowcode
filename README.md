@@ -69,6 +69,7 @@
   * [百度外卖如何做到前端开发配置化](https://juejin.im/post/59536bad6fb9a06ba024d96d)
 * [Esview ](https://github.com/furioussoul/esview)
 * [gen](https://github.com/genany/gen)
+* [bee gen pro](https://gocn.vip/topics/10724)
 
 ## 办公系统 a.k.a no-code
 
