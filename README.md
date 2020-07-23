@@ -17,7 +17,6 @@
   * [十倍效能提升——Web 基础研发体系的建立](https://zhuanlan.zhihu.com/p/34790596)
   * [前端服务化——页面搭建工具的死与生](https://www.cnblogs.com/sskyy/p/6496287.html)
 * [阿里-宜搭](https://www.aliwork.com/)
-* [阿里-飞冰](https://ice.work/)
 * 阿里-天马
   * [如何设计阿里经济体都在用的搭建服务—天马](https://zhuanlan.zhihu.com/p/137470317)
 * 腾讯-积木
@@ -47,6 +46,7 @@
 
 ## ![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)
 
+* [阿里-飞冰](https://ice.work/)
 * [阿里-formilyjs](https://formilyjs.org/)
   * [MegaLayout - 下一代Formily表单布局解决方案](https://zhuanlan.zhihu.com/p/133906363)
 * [阿里-gaea-editor](https://github.com/ascoders/gaea-editor)
