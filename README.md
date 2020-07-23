@@ -43,6 +43,7 @@
   * [美团外卖前端可视化界面组装平台 —— 乐高](https://zhuanlan.zhihu.com/p/27288444)
 * [百度-h5](https://h5.bce.baidu.com/)
   * [前端即服务-通向零成本开发之路](https://os.alipayobjects.com/rmsportal/sJqXvOtwePsVWGNIwlas.pdf)
+* [MAKA](http://maka.im/)
 
 ## ![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)
 
@@ -67,6 +68,7 @@
 * [百度外卖-blocks](https://github.com/Eyot424/blocks)
   * [百度外卖如何做到前端开发配置化](https://juejin.im/post/59536bad6fb9a06ba024d96d)
 * [Esview ](https://github.com/furioussoul/esview)
+* [gen](https://github.com/genany/gen)
 
 ## 办公系统 a.k.a no-code
 
