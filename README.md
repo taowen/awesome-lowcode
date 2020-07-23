@@ -40,7 +40,7 @@
 * [pager](https://github.com/laispace/pager)
 * 政采云-鲁班
   * [前端工程实践之可视化搭建系统（一）](https://juejin.im/post/5d8774bff265da03ae78b2a1)
-* [运满满-码良](https://github.com/ymm-tech/gods-pen)
+* [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)[运满满-码良](https://github.com/ymm-tech/gods-pen)
   * [如何设计高扩展的在线网页制作平台](https://juejin.im/post/5bd83daee51d4524b50d23b5)
 
 ## 办公系统 a.k.a no-code
