@@ -41,6 +41,8 @@
   * [活动运营自动化平台实践](https://zhuanlan.zhihu.com/p/68108055)
 * 美团-乐高
   * [美团外卖前端可视化界面组装平台 —— 乐高](https://zhuanlan.zhihu.com/p/27288444)
+* [百度-h5](https://h5.bce.baidu.com/)
+  * [前端即服务-通向零成本开发之路](https://os.alipayobjects.com/rmsportal/sJqXvOtwePsVWGNIwlas.pdf)
 
 ## ![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)
 
