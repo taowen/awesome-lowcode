@@ -36,6 +36,7 @@
   * [基于 Angular 的小程序可视化编辑器 Panel-Magic 的实现解析](https://zhuanlan.zhihu.com/p/101677992)
 * [阿里-imgcook](https://imgcook.taobao.org/)
 * [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)阿里-gaea-editor](https://github.com/ascoders/gaea-editor)
+  * [可视化在线编辑器架构设计](https://www.jianshu.com/p/840e0b0b2c6a)
 * [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)blockVisualEditor](https://github.com/sww1230/blockVisualEditor)
 * [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)pager](https://github.com/laispace/pager)
 * 政采云-鲁班
