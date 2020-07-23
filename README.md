@@ -148,6 +148,7 @@
 * https://reactstudio.com/
 * https://www.wix.com/
 * https://university.webflow.com/
+* https://www.squarespace.com/
 * https://www.framer.com/
 * https://www.figma.com/
 * https://www.mendix.com/zh/
