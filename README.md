@@ -36,13 +36,11 @@
   * [状态管理的问题是什么](https://github.com/mulcloud/state-management-demo)
 * [数式科技](https://shushi.pro/technology)
 * [明道云](https://www.mingdao.com/)
-* [简道云](https://www.jiandaoyun.com/)
 * [炎黄盈动](https://www.actionsoft.com.cn/)
 * [无远开发平台](https://wuyuan.io/)
 * [广州天翎myApps](http://www.teemlink.com/)
 * [活字格](https://www.grapecity.com.cn/solutions/huozige)
 * [起步科技](http://www.wex5.com/)
-* [轻流](https://qingflow.com/)
 
 ## 页面搭建
 
@@ -113,10 +111,12 @@
 * https://github.com/vuegg/vuegg
 * https://webcodesk.com/
 
-## 办公系统 a.k.a no-code
+## 办公/管理系统 a.k.a no-code
 
 * [黑帕云](https://hipacloud.com/)
 * [阿里-Teambition](https://www.teambition.com/tour)
+* [轻流](https://qingflow.com/)
+* [简道云](https://www.jiandaoyun.com/)
 
 ## 行业综述
 
