@@ -76,6 +76,7 @@
 * [bee gen pro](https://gocn.vip/topics/10724)
 * [百度-amis](https://github.com/baidu/amis)
   * [Ovine](https://github.com/CareyToboo/ovine)：基于 amis 补全了路由、权限相关的组件
+* [唯品会-ams](https://github.com/vipshop/ams)
 
 ## 办公系统 a.k.a no-code
 
