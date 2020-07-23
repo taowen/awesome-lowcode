@@ -45,6 +45,8 @@
 * [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)X-Page-Editor](https://github.com/OXOYO/X-Page-Editor-Vue)
 * [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)Vue-Layout](https://github.com/jaweii/Vue-Layout)
 * [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)antd-visual-editor](https://github.com/xinyu198736/antd-visual-editor)
+* [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)pipeline-editor](https://github.com/page-pipepline/pipeline-editor)
+  * [【第1524期】页面可视化搭建工具技术要点](https://mp.weixin.qq.com/s/90JJAFhGokKmicOQZxdAGg)
 
 ## 办公系统 a.k.a no-code
 
