@@ -35,6 +35,8 @@
   
 ## 页面搭建
 
+仅包含前端部分的 low code 平台
+
 * 京东-通天塔
   * [京东商城活动页面构建系统——通天塔](https://blog.csdn.net/zl1zl2zl3/article/details/84661421)
 * [阿里-imgcook](https://imgcook.taobao.org/)
@@ -49,7 +51,15 @@
   * [前端即服务-通向零成本开发之路](https://os.alipayobjects.com/rmsportal/sJqXvOtwePsVWGNIwlas.pdf)
 * [MAKA](http://maka.im/)
 * 政采云-鲁班
-  * [前端工程实践之可视化搭建系统（一）](https://juejin.im/post/5d8774bff265da03ae78b2a1)
+  * [前端工程实践之可视化搭建系统（一）](https://juejin.im/post/5d8774bff265da03ae78b2a1)  
+  
+# 店铺装修
+
+非独立页面，依附于业务系统存在的页面搭建
+
+* [shopify](https://apps.shopify.com/browse/store-design-page-builders)
+* 有赞-微页面
+* 淘宝店铺装修
   
 ## ![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)
 
