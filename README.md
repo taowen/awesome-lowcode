@@ -50,6 +50,7 @@
 * [百度-h5](https://h5.bce.baidu.com/)
   * [前端即服务-通向零成本开发之路](https://os.alipayobjects.com/rmsportal/sJqXvOtwePsVWGNIwlas.pdf)
 * [MAKA](http://maka.im/)
+* [易企秀](https://store.eqxiu.com/)
 * 政采云-鲁班
   * [前端工程实践之可视化搭建系统（一）](https://juejin.im/post/5d8774bff265da03ae78b2a1)  
   
