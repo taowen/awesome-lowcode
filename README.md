@@ -105,6 +105,7 @@
 * [唯品会-ams](https://github.com/vipshop/ams)
 * [vue-admin](https://github.com/jiangshanmeta/vue-admin)
 * [鲁班 H5](https://github.com/ly525/luban-h5)
+* [华炎魔方](https://github.com/steedos/steedos-platform/)
 
 ---
 
