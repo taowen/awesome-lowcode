@@ -146,6 +146,7 @@
 
 ## 国外
 
+* https://www.honeycode.aws/
 * https://developers.google.com/appmaker
 * https://powerapps.microsoft.com/zh-cn/
 * https://www.zoho.com/creator/
