@@ -115,6 +115,7 @@
 * https://github.com/BuilderIO/builder
 * https://github.com/vuegg/vuegg
 * https://webcodesk.com/
+* https://github.com/odoo/odoo
 
 ## 办公/管理系统 a.k.a no-code
 
