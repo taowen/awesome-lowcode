@@ -37,6 +37,8 @@
 * [巴克云](https://www.buckycloud.com/)
 * [数式科技](https://shushi.pro/technology)
 * [明道云](https://www.mingdao.com/)
+* [轻流](https://qingflow.com/)
+* [简道云](https://www.jiandaoyun.com/)
 * [炎黄盈动](https://www.actionsoft.com.cn/)
 * [无远开发平台](https://wuyuan.io/)
 * [广州天翎myApps](http://www.teemlink.com/)
@@ -126,8 +128,6 @@
 * [黑帕云](https://hipacloud.com/)
 * [维格表](https://vika.cn/)
 * [阿里-Teambition](https://www.teambition.com/tour)
-* [轻流](https://qingflow.com/)
-* [简道云](https://www.jiandaoyun.com/)
 * https://monday.com/
 * https://airtable.com/
 
