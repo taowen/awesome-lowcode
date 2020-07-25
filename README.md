@@ -132,6 +132,12 @@
 * https://monday.com/
 * https://airtable.com/
 
+## 声明式编程
+
+真正意义上的 no-code
+
+* ["Probabilistic scripts for automating common-sense tasks" by Alexander Lew](https://www.youtube.com/watch?v=MiiWzJE0fEA)
+
 ## 行业综述
 
 * [精读《对低代码搭建的理解》](https://zhuanlan.zhihu.com/p/161783546)
