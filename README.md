@@ -114,6 +114,7 @@
   * [一个简单易用的电商活动页面生成系统](https://juejin.im/post/5cf328706fb9a07f042030f0)
 * [vision](https://github.com/tuoxiansp/vision)
 * [brick-design](https://github.com/brick-design/react-visual-editor)
+* [随心秀](https://github.com/lzuntalented/lz-h5-edit)
 
 ---
 
