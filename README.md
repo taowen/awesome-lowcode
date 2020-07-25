@@ -135,8 +135,6 @@
 
 ## 声明式编程
 
-真正意义上的 no-code
-
 * ["Probabilistic scripts for automating common-sense tasks" by Alexander Lew](https://www.youtube.com/watch?v=MiiWzJE0fEA)
 
 ## 行业综述
