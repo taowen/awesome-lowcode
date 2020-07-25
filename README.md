@@ -34,6 +34,7 @@
   * [闪电数据管理 —— 无代码数据管理(开发)系统](https://zhuanlan.zhihu.com/p/162964986)
 * 乘法云
   * [状态管理的问题是什么](https://github.com/mulcloud/state-management-demo)
+* [巴克云](https://www.buckycloud.com/)
 * [数式科技](https://shushi.pro/technology)
 * [明道云](https://www.mingdao.com/)
 * [炎黄盈动](https://www.actionsoft.com.cn/)
