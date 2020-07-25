@@ -45,6 +45,7 @@
 * [活字格](https://www.grapecity.com.cn/solutions/huozige)
 * [起步科技](http://www.wex5.com/)
 * [金蝶云-苍穹](http://www.kingdee.com/products/cosmic)
+* [普元](http://primeton.com/products/ep/overview.php)
 
 ## 页面搭建
 
