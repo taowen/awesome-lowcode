@@ -4,8 +4,6 @@
 
 扫码加入从业者微信群
 
-<img src="https://tool.oschina.net/action/qrcode/generate?data=https%3A%2F%2Fweixin.qq.com%2Fg%2FAQYAAK1ZiYy-lnLzglyoY0KnnVPu0Du-rJNvSPFpRcb_I48PqSyP-NcqI7Y8KP8-&output=image%2Fgif&error=L&type=0&margin=0&size=4&1595461784114" />
-
 <img src="weixin.jpg" width="300" />
 
 ## 全栈平台
