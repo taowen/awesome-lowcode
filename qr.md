@@ -1,10 +1,10 @@
 <table>
   <tr>
-    <td>John</td>
-    <td>Doe</td>
+    <th>Month</th>
+    <th>Savings</th>
   </tr>
   <tr>
-    <td>Jane</td>
-    <td>Doe</td>
+    <td style="background-color:#FF0000">January</td>
+    <td style="background-color:#00FF00">$100</td>
   </tr>
-</table>
+ </table>
