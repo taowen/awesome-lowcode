@@ -75,6 +75,8 @@
   * [活动专题系统搭建过程中我的一些思考](https://www.dazhuanlan.com/2019/10/07/5d9a698bdde35/)
 * 携程-乐高
   * [干货 | 已配置4000+页面，携程前端组件化探索之“乐高”运营系统](https://mp.weixin.qq.com/s/WDCkXEBa0bA-h_8L6cBcJw)
+* 知乎-Versatile Editor
+  * [「可视化搭建系统」——从设计到架构，探索前端领域技术和业务价值](https://zhuanlan.zhihu.com/p/164558106)
   
 ## 店铺装修
 
@@ -149,7 +151,6 @@
 
 ## 行业综述
 
-* [「可视化搭建系统」——从设计到架构，探索前端领域技术和业务价值](https://zhuanlan.zhihu.com/p/164558106)
 * [精读《对低代码搭建的理解》](https://zhuanlan.zhihu.com/p/161783546)
 * [页面可视化搭建工具前生今世](https://zhuanlan.zhihu.com/p/37171897)
 * [React.js 可视化编辑工具](https://juejin.im/post/5d7ae944f265da03c5033e38)
