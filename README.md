@@ -146,6 +146,7 @@
 
 ## 行业综述
 
+* [「可视化搭建系统」——从设计到架构，探索前端领域技术和业务价值](https://zhuanlan.zhihu.com/p/164558106)
 * [精读《对低代码搭建的理解》](https://zhuanlan.zhihu.com/p/161783546)
 * [页面可视化搭建工具前生今世](https://zhuanlan.zhihu.com/p/37171897)
 * [React.js 可视化编辑工具](https://juejin.im/post/5d7ae944f265da03c5033e38)
