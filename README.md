@@ -122,6 +122,7 @@
 * [yh5](https://github.com/qq15725/yh5)
 * [rxeditor](https://github.com/rxwater/rxeditor)
 * [activity-YD](https://github.com/vkcyan/activity-YD)
+* [layoutit](https://github.com/justjavac/layoutit)
 
 ---
 
