@@ -116,6 +116,7 @@
 * [brick-design](https://github.com/brick-design/react-visual-editor)
 * [随心秀](https://github.com/lzuntalented/lz-h5-edit)
 * [yh5](https://github.com/qq15725/yh5)
+* [rxeditor](https://github.com/rxwater/rxeditor)
 
 ---
 
