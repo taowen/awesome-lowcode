@@ -26,8 +26,6 @@
 * 腾讯-积木
   * [积木系统v2@江源.pptx](https://vdisk.weibo.com/s/cSKQveSBDMPco)
   * [积木系统，将运营系统做到极致](https://cloud.tencent.com/developer/article/1055079)
-* 携程-民宿CMS
-  * [活动专题系统搭建过程中我的一些思考](https://www.dazhuanlan.com/2019/10/07/5d9a698bdde35/)
 * [奥哲](https://www.authine.com/)
 * [点石](https://www.h5ds.com/)
 * [ivx](https://www.ivx.cn/index)
@@ -73,6 +71,10 @@
   * [前端即服务-通向零成本开发之路](https://os.alipayobjects.com/rmsportal/sJqXvOtwePsVWGNIwlas.pdf)
 * 政采云-鲁班
   * [前端工程实践之可视化搭建系统（一）](https://juejin.im/post/5d8774bff265da03ae78b2a1)  
+* 携程-民宿CMS
+  * [活动专题系统搭建过程中我的一些思考](https://www.dazhuanlan.com/2019/10/07/5d9a698bdde35/)
+* 携程-乐高
+  * [干货 | 已配置4000+页面，携程前端组件化探索之“乐高”运营系统](https://mp.weixin.qq.com/s/WDCkXEBa0bA-h_8L6cBcJw)
   
 ## 店铺装修
 
