@@ -46,6 +46,8 @@
 * [起步科技](http://www.wex5.com/)
 * [金蝶云-苍穹](http://www.kingdee.com/products/cosmic)
 * [普元](http://primeton.com/products/ep/overview.php)
+* OpsMind
+  * [OpsMind 前端低代码开发平台--MPlatform](https://mp.weixin.qq.com/s/gTVUii6ekVZNoX-6k5UCcg)
 
 ## 页面搭建
 
