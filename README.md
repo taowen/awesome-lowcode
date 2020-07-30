@@ -129,6 +129,7 @@
 * [layoutit](https://github.com/justjavac/layoutit)
 * [Ramiko](https://github.com/fantasticit/ramiko)
   * [使用 React 构建页面可视化搭建工具](https://www.v2ex.com/t/685143)
+* [jeecg-boot](https://github.com/zhangdaiscott/jeecg-boot)
 
 ---
 
