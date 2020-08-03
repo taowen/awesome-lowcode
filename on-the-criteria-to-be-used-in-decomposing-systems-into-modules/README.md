@@ -61,3 +61,40 @@ Figure 1
 Structure of KWIC index decomposition 1
 
 ![figure1](./figure1.drawio.svg)
+
+## Modularization 2
+
+We see the following modules:
+
+**Module 1**: **Line Storage**: This module consists of a number of functions each one of which is given a precise specification in Figure 2. By calling these functions one may add a character to the end of the last word in the last line, start a new word, or start a new line. One may call other functions to find  the kth character of the kth word in the jth line. Other routines in this module may be called to reveal the number of lines, the number of words in a line, or the number of characters in any word. A precise definition of this module is  given in Figure 2. The method of specification haas been explained in [3].
+
+**Module 2**: **Input**: This module reads the original lines from the input media **and calls the Line Storage module to have them stored internally**.
+
+**Module 3**: **Circular Shifter**: This module contains a number of functions. CSSTUP cause the others to have defined values. The others are intended to be analogue of  the information giving functions in module 1. Using them one may refer to the kth character of jth word of  the ith circular shift, as well as getting the lengths of lines and words, etc. This is shown in Figure 3.
+
+**Module 4**: **Alphabetizer**: This module consists principally of two functions. One, ALPH, must be called before the others will have a defined value. The second, ITH, will serve as an index. ITH(i) will give the index of the circular shift which comes ith in the alphabetical ordering. Formal definitions of these functions are given in Figure 4.
+
+**Module 5**: **Output**: This module will give the desired printing of any circular shift. It calls upon Circular Shift functions.
+
+**Module 6**: **Master Control**: Similar in function to the modularization above.
+
+Figure 2
+
+Definition of a "Line Storage" Module
+
+**Introduction**: This definition specifies a mechanism which may be used to hold up to p1 line, each line consisting of up to p2 words, and each word may be up to p3 characters.
+
+```
+Function WORD
+  Possible values: integers
+  initial values: undefined
+  parameters: l,w,c all integer
+  effect:
+    call ERLWEL* if 1 < 1 or 1 > p1
+    call ERLWNL if 1 > LINES
+    call ERLWEW if w < 1 or w > p2
+    call ERLWNW if w > WORDS(1)
+    call ERLWEC if c < 1 or c > p3
+    call ERLWNC if c > CHARS(1, w)
+```
+
