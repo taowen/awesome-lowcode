@@ -26,7 +26,20 @@ I must begin by saying that I am in complete agreement with this statement thoug
 
 The major progress in the area of modular programming has been the development of coding techniques and assemblers which (1) allow one module to be written with little knowledge of the **code** used in another module and, (2) allow modules to be reassembled and replaced without reassembly of the whole system. This facility is extremely valuable for the production of large pieces of code, but its use has not resulted in the expected benefits. In fact, the system most often used as examples of the problems involved in producing large systems are themselves highly modularized programs which make use of the sophisticated coding and assembly techniques mentioned above.
 
-## Expected benefits of modular programming
+# Expected benefits of modular programming
 
 The expected benefits of modular programming fall into three classes: (1) managerial -- development time could be shortened because separate groups would work on each module with little need for communication (and little regret afterward that eree had not been more communication); (2) product flexiibility -- it was hoped that it would be possible to make quite drastic changes or improvements in one module without changing others; (3) comprehensibility -- it was hoped that the system could be studied a module at a time with the result that the whole system could be better designed because it was better understood.
+
+# What is a "modularization"?
+
+In the sequel I give several partial system descriptions called "modularizations". In this contexst "module" is best considered to be a work assignment unit rather than a subprogram. The modularizations are intended to describe the deisgn decisions which must be made **before** the work on independent modules can begin. Although quite different decisions are made in each alternative, in all cases the intention is to describe all "system level" decisions (i.e., decisions which affect more than one module).
+
+# Example system 1: a KWIC index production system
+
+For those who may not know what a KWIC index is the following description will suffice for this paper. The KWIC index system accepts an ordered set of lines, each line is an ordered set of characters. Any line may be "circularly shifted" by repeatedly removing the first word and adding it to the end of the line. The KWIC index system outputs a listing of all circular shifts of all lines in alphabetical order. This is a samll sytem. Except under extreme circumstances (huge database, no supporting software), such a system could be produced by a good programmer within a week or two. Consequently it is a poor example in the none of the reasons motivating modular programming are important for this sytem. Because it is impractical to treat a large system thoroughly, we shall go through the eexercise of treating this problem as if it were a large project. We give two modularizations. One, we fell, typifies current projects; the other has been used successfully in an undergraduate class project.
+
+## Modularization 1
+
+We see the following modules:
+
 
