@@ -56,3 +56,8 @@ It should be clear that the above does not constitute a definitive document. Muc
 
 This is a modularization in the sense menat by all proponents of modular programming. The system is divided into a number of relatively independent modules with well defined interfaces; each one is small enought and simple enough to be thoroughly understood and well programmed. Experiments on a small scale indicate that this is approximately the decomposition which would be proposed by most programmers for the task specified. Figure 1 gives a picture of the structure of the system.
 
+Figure 1
+
+Structure of KWIC index decomposition 1
+
+![figure1](./figure1.drawio.svg)
