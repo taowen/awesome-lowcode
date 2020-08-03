@@ -42,4 +42,17 @@ For those who may not know what a KWIC index is the following description will s
 
 We see the following modules:
 
+**Module 1**: **Input**: This module contains a single main program which reads the data lines from the input medium and stores them in core for processing by the remaining modules. In core the characters are packed four to a word, and an otherwise unused character is used to indicate end of a word. An index is kept to show the starting address of each line.
+
+**Module 2**: **Circular Shift**: This module is called after the input module as completed its work. Rather than store all of the circulaar shifts in core, it prepares an index which gives the address of the first character of each circular shift, and the original index of the line in the array made up by module 1. It leaves its output in core with words in pairs (original line number, starting address).
+
+**Module 3**: **Alphabetizing**: This module takes as input the arrays produced by modules 1 and 2. It produces an array in the same format as that produced by module 2. In this case, however, the circular shifts are listed in another order (alphabetically).
+
+**Module 4**: **Output**: Using the arrays produced by module 3 and module 1, this module produces a nicely formatted output listing all of the circular shifts. In a sophisticated system, the actual start of each line will be marked, pointers to further information may be inserted, the start of the circular shift may actually not be the first word in the line, etc., etc.
+
+**Module 5**: **Master Control**: This module does little more than control t he sequencing among the other four modules. It may also handle error messages, space allocation, etc.
+
+It should be clear that the above does not constitute a definitive document. Much more information would have to be supplied before work could start. The defining documents would include a number of pictures showing core formats, pointer conventions, calling conventions, etc., etc. Only when all of the interfaces between the four modules had been specified could work really begin.
+
+This is a modularization in the sense menat by all proponents of modular programming. The system is divided into a number of relatively independent modules with well defined interfaces; each one is small enought and simple enough to be thoroughly understood and well programmed. Experiments on a small scale indicate that this is approximately the decomposition which would be proposed by most programmers for the task specified. Figure 1 gives a picture of the structure of the system.
 
