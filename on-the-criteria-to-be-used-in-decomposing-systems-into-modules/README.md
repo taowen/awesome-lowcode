@@ -96,5 +96,30 @@ Function WORD
     call ERLWNW if w > WORDS(1)
     call ERLWEC if c < 1 or c > p3
     call ERLWNC if c > CHARS(1, w)
+    
+---
+* The routine named are to be written by the user of the module. The call
+informs the user that he has violated a restriction on the module; the sub-
+routine should contain his recovery instructions [3].
 ```
+
+```
+Function SETWRD
+  possible values: none
+  initial values: not applicable
+  parameters: l,w,c,d all integers
+  effect:
+    call ERLSLE if l < 1 or l > p1
+    call ERLSBL if l > 'LINES' + 1
+    call ERLSBL if 1 < 'LINES'
+    call ERLSWE if w < 1 or w > p2
+    call ERLSBW if w > 'WORDS'(1) + 1
+    call ERLSBW if w < 'WORDS'(1)
+    call ERLSCE if c < 1 or c > p3
+    if l = 'LINES' + 1 then LINES = 'LINES' + 1
+    if w = 'WORD'(1) + 1 then WORDS(1) = w
+    CHARS(1,w) = c
+    WORD(1,w,c) = d
+```
+
 
