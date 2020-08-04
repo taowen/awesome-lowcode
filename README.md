@@ -133,6 +133,7 @@
 
 ---
 
+* https://github.com/blocks/blocks
 * https://github.com/frappe/frappe
 * https://github.com/ipselon/structor
 * https://github.com/vigetlabs/colonel-kurtz
