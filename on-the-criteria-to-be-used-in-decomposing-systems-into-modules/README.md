@@ -233,6 +233,16 @@ Since it is conceivable that we could have a system with the type of decompositi
 
 We have tried to demonstrate by these examples that it is almost always incorrect to begin the decomposition of a system into modules on the basis of a flowchart. We propose instead that one begins with a list of difficult design decisions or design decisions which are likely to change. Each module is then designed to hide such a decision from the others. Since, in most cases, design decisions transcend time of execution, modules will not correspond to steps in the processing. To achieve an efficient implementation we must abandon the assumption that a module is one or more subroutines, and instead allow subroutines and programs to be assembled collections of code from various modules. 
 
+# References
+
+1. Gauthier, Richard and Stephen Ponto, Designing Systems Programs, (C) 1970, Prentice-Hall, Inc.
+2. Hoare, C. A. R., "Proof of a Program, FIND,11 Comm. ACM. January 1971.
+3. Parnas, D. L., A Paradigm for Software Module Specification with Examples, Technical Report, Department of Computer Science, Carnegie Mellon University, Pittsburgh, Pa., 1971.
+4. Parnas, D. L., Information Distribution Aspects of Design Methodology, Technical Report, Department of Computer Science, Carnegie-Mellon University, Pittsburgh, Pa., 1971. Also to be presented at the IFIP Congress 1971, Ljubeljana, Yugoslavia.
+5. Dijkstra, E. W., "The T.H.E. Multiprogramming System," CACM, May 1967.
+6. Galler, B. and A. J. Perils, A View of Programming Languages, Addison Wesley, 1970.
+7. Parnas, D. L., A Course on Software Engineering, in preparation. 
+
 
 
 
