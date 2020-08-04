@@ -143,5 +143,26 @@ approach.
 It is by looking at changes such as these that we can see the differences between the two modularizations. The first change is, in both decompositions, confined to one module, but the second change would result in changes in every module for the first decomposition. The same is true of the third change. In the first decomposition the format of
 the line storage in core must be used by all of the programs. In the second decomposition the story is entirely different. Knowledge of the exact way that the lines are stored is entirely hidden from all but module 1. Any change in the manner of storage can be confined to that module! 
 
+In fact, in some of the versions of this system there was an additional module in the decomposition. A symbol table module as described in [3] was used within the line storage module. This fact, where true, was completely invisible to the rest of the system. 
+
+The fourth change is confined to the circular shift module in the second decomposition but in the first decomposition, the alphabetizer, and the output routines will also know of the change. 
+
+The fifth change will also prove difficult in the first decomposition. The output module will expect the index to have been completed before it began. The alphabetizer module in the second decomposition was designed so that a user could not detect when the alphabetization was actually done. No other module need be changed. 
+
+## (2) Independent development. 
+
+In the first modularization the interfaces between the modules are the fairly complex formats and table organizations described above. These represent design decisions which
+cannot be taken lightly. The table structure and organisation are essential to the efficiency of the various modules and must be designed carefully. The development of those formats will be a major part of the module development and that part must be a joint effort among the several development groups. In the second modularization the interfaces
+are more abstract, they consist primarily in the function names and the numbers and types of the parameters. These are relatively simple decisions and the independent development of modules should begin much earlier. 
+
+## (3) Comprehensibility. 
+
+To understand the output module in the first modularization, it will be necessary to understand something of the alphabetizer, the circular shifter and the input module. There will be aspects of the tables used by output which will only make sense because of the way that the other modules work. There will be constraints on the structure of the tables due to the algorithms used in the other modules. The system will only be comprehensible as a whole. It is my subjective judgment that this is not true in the second modularization
+
+# The Criteria 
+
+
+
+
 
 
