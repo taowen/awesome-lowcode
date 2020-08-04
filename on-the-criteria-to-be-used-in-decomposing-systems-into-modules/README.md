@@ -215,8 +215,13 @@ We have used successfully the following modularization:
 
 **Output**: Does necessary printing of register, last rule to apply, etc. 
 
+# Discussion of Second Example
 
+Many of the arguments from the first example could be repeated here. For example, the separation of register manipulation from the other modules allows easier changing of the register representation. The separation of rule sequencing from rule interpretation allows one to experiment easily with some of the other forms of Markov Algorithms described in [6]. 
 
+We have chosen this example to make another point, however. This modularization has not made a decision between interpretor and compiler. We can switch between an interpretive translator and a compiler relatively easily and we can also choose many points on a spectrum between the two. Register manipulation, sequencing, input and output will remain (or may remain) with little changes. The major change is in the rule interpretation module, which in the compiler stores a machine code program once, but in the interpretor applies the rule when called to interpret. There can be a great deal of code in common between the two systems. For example, the register manipulation code is used in both versions. In the computer it is part of the run time routines; in the interpretor it is called by the rule interpretation module. 
 
+# HIERARCHICAL STRUCTURE 
 
+We can find a program hierarchy in the sense illustrated by Dijkstra [5] in the system defined according to decomposition 2. If a symbol table exists, it functions without any of the other modules, hence it is on level 1. Line storage is on level 1 if no symbol table is used or on level 2 otherwise. Input and Circular Shifter require line storage for their functioning. Output and Alphabetizer will require Circular Shifter, but since circular shifter and line holder are in some sense compatible it would be easy to build a parameterized version of those routines which could be used to alphabetize or print out either the original lines or the circular shifts. In the first usage they would not require circular shifter; in the second they would. In other words, our design has allowed us to have a single representation for programs which may run at either of two levels in the hierarchy. 
 
