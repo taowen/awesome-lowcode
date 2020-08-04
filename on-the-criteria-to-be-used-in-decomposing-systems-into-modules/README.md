@@ -136,5 +136,12 @@ There are a number of design decisions which are questionable and likely to chan
 1. The decision to have all lines stored in core. For large indices it may prove inconvenient or impractical to keep all of the lines in core at any one time. 
 1. The decision to pack the characters four to a word. In cases where we are working with small indices it may prove undesirable to pack the characters, time will be saved by a
 character per word layout. In other cases, we may pack, but in different formats. 
+1. The decision to make an index for the circular shifts rather than actually store them as such. Again, for a small index or a large core^writing them out may be the preferable
+approach. 
+1. The decision to alphabetize the list once, rather than search for each item when needed, or partially alphabetize as is done in Hoare's FIND [2]. In a number of circumstances it would be advantageous to distribute the computation involved in alphabetization over the time required to produce the index. 
+
+It is by looking at changes such as these that we can see the differences between the two modularizations. The first change is, in both decompositions, confined to one module, but the second change would result in changes in every module for the first decomposition. The same is true of the third change. In the first decomposition the format of
+the line storage in core must be used by all of the programs. In the second decomposition the story is entirely different. Knowledge of the exact way that the lines are stored is entirely hidden from all but module 1. Any change in the manner of storage can be confined to that module! 
+
 
 
