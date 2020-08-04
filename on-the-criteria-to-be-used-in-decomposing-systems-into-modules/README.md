@@ -185,6 +185,37 @@ There are two conventional modularizations of this type of translator, They are:
 
 ## 1. Interpretor 
 
+**Input module**: Reads the input, parsing it into rules and storing a direct representation of the rule in core. 
+
+**Interpretor**: Attempts to apply each rule to the register. It accesses the data structure storing the rules, uses the pattern to look for a match, and if a match is found, then uses the substitution to change the register. 
+
+There may also be an output module doing appropriate printing. 
+
+## 2. Compiler: 
+
+**Input module**: Reads the input, parses it, and passes a representation of each syntactic unit as a parameter to the next module, encoder. 
+
+**Encoder**: This consists of routines which are passed a rule or part of a rule and produce machine code which would enact it, e.g., they produce a machine code program for each pattern which searches for the occurrence of that pattern. This is known as the compiled code. 
+
+**Run Time Routines**: Consist of a standard set of machine code routines used in every algorithm. The compiled routines link to these routines for such functions as output, etc. 
+
+# An Alternative Approach 
+
+We have used successfully the following modularization: 
+
+**Rule Storage**: Stores a representation of the rules in core. This module is in many ways analagous to the Line Storage Module. 
+
+**Rule Interpretation**: Knows the meaning of a rule, e.g., knows how to examine the stored rule and apply any given rule. 
+
+**Register Manipulation**: Consists of a set of routines which make all manipulations on the register. 
+
+**Sequencing**: Chooses the next rule to be applied.
+
+**Input**: Reads the input and calls rule storage and register manipulation modules for the purpose of internal storage. 
+
+**Output**: Does necessary printing of register, last rule to apply, etc. 
+
+
 
 
 
