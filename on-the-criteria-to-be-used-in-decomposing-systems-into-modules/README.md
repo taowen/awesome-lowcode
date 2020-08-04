@@ -122,4 +122,11 @@ Function SETWRD
     WORD(1,w,c) = d
 ```
 
+# Comparison of the Two Modularizations 
+
+Both schemes will work. The first is quite conventional; the second has been used successfully in a class project [7]. Both will reduce the programming to the relatively independent programming of a number of small, manageable, programs. We must, however, look more deeply in order to investigate the progress we have made towards the stated goals. 
+
+I must emphasize the fact that in the two decompositions I **may not** have changed any representations or methods. It is my intention to talk about two different ways of cutting up what **may** be the same object. A system built according to decomposition 1 could conceivably be identical after assembly to one built according to decomposition 2. The differences between the two systems are in the way that they are divided into modules, the definitions of those modules, the work assignments, the interfaces, etc. The algorithms used in both cases **might** be identical. I claim that the systems are substantially different even if identical in the runnable representation. This is possible becuase the runnable representation is used only for running; other representations are used for changing, documenting, understanding, etc. In those other representations the two systems will not be identical. 
+
+
 
