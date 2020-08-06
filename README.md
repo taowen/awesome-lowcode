@@ -153,18 +153,19 @@
 
 ## 行业综述
 
-* 可逆计算
-  * [可逆计算：下一代软件构造理论](https://zhuanlan.zhihu.com/p/64004026)
-  * [从可逆计算看声明式编程](https://zhuanlan.zhihu.com/p/85492497)
 * [精读《对低代码搭建的理解》](https://zhuanlan.zhihu.com/p/161783546)
 * [页面可视化搭建工具前生今世](https://zhuanlan.zhihu.com/p/37171897)
 * [React.js 可视化编辑工具](https://juejin.im/post/5d7ae944f265da03c5033e38)
 * [对低代码、零代码产品的一些看法](https://zhuanlan.zhihu.com/p/156887528)
 * [对 aPaaS 的产品认知](https://zhuanlan.zhihu.com/p/149801853)
 * [无代码编程](https://zhuanlan.zhihu.com/p/61288928)
+* [万物代码化：从低代码、云开发到云研发的思考](https://zhuanlan.zhihu.com/p/141742525)
 
 ## 技术点
 
+* 可逆计算
+  * [可逆计算：下一代软件构造理论](https://zhuanlan.zhihu.com/p/64004026)
+  * [从可逆计算看声明式编程](https://zhuanlan.zhihu.com/p/85492497)
 * [面向 Model 编程的前端架构设计](https://zhuanlan.zhihu.com/p/144157268)
 * [流动的数据——使用 RxJS 构造复杂单页应用的数据逻辑](https://github.com/xufei/blog/issues/38)
 * [使用 React 写个简单的活动页面运营系统 - 设计篇](https://segmentfault.com/a/1190000004540256)
