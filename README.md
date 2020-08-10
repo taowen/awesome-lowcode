@@ -167,6 +167,7 @@
 * 可逆计算
   * [可逆计算：下一代软件构造理论](https://zhuanlan.zhihu.com/p/64004026)
   * [从可逆计算看声明式编程](https://zhuanlan.zhihu.com/p/85492497)
+* [161.精读《可视化搭建思考 - 富文本搭建》](https://github.com/dt-fe/weekly/blob/v2/161.%E7%B2%BE%E8%AF%BB%E3%80%8A%E5%8F%AF%E8%A7%86%E5%8C%96%E6%90%AD%E5%BB%BA%E6%80%9D%E8%80%83%20-%20%E5%AF%8C%E6%96%87%E6%9C%AC%E6%90%AD%E5%BB%BA%E3%80%8B.md)
 * [面向 Model 编程的前端架构设计](https://zhuanlan.zhihu.com/p/144157268)
 * [流动的数据——使用 RxJS 构造复杂单页应用的数据逻辑](https://github.com/xufei/blog/issues/38)
 * [使用 React 写个简单的活动页面运营系统 - 设计篇](https://segmentfault.com/a/1190000004540256)
