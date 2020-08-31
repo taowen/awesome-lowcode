@@ -165,6 +165,7 @@
 * [对 aPaaS 的产品认知](https://zhuanlan.zhihu.com/p/149801853)
 * [无代码编程](https://zhuanlan.zhihu.com/p/61288928)
 * [万物代码化：从低代码、云开发到云研发的思考](https://zhuanlan.zhihu.com/p/141742525)
+* [《早早聊搞搭建》搞过搭建的我收获了什么？](https://juejin.im/post/6844904106767695880) 
 
 ## 技术点
 
