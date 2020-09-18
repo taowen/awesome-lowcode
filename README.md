@@ -128,6 +128,7 @@
 * [sparrow-js](https://github.com/sparrow-js/sparrow)
 * [Tefact](https://github.com/Tefact/tefact-saas): 让你通过无需任何代码即可生成简单CRUD后台
 * [好未来晓黑板go-zero微服务框架](https://github.com/tal-tech/go-zero): 你不需要懂微服务，懂业务就行
+* [cube](https://github.com/fantasticit/cube)：快速搭建中后台页面
 
 
 ---
