@@ -109,6 +109,7 @@
 * [bee gen pro](https://gocn.vip/topics/10724)
 * [百度-amis](https://github.com/baidu/amis)
   * [Ovine](https://github.com/CareyToboo/ovine)：基于 amis 补全了路由、权限相关的组件
+  * [爱速搭](https://suda.baidu.com/)
 * [唯品会-ams](https://github.com/vipshop/ams)
 * [vue-admin](https://github.com/jiangshanmeta/vue-admin)
 * [鲁班 H5](https://github.com/ly525/luban-h5)
