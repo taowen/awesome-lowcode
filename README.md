@@ -42,6 +42,7 @@
 * OpsMind
   * [OpsMind 前端低代码开发平台--MPlatform](https://mp.weixin.qq.com/s/gTVUii6ekVZNoX-6k5UCcg)
 * [xdeer](https://www.xdeer.cn/)
+* [湘北智造](https://www.xjrsoft.com/)
 
 ## 页面搭建
 
