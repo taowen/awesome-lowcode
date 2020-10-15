@@ -31,6 +31,7 @@
 * [数式科技](https://shushi.pro/technology)
 * [明道云](https://www.mingdao.com/)
 * [轻流](https://qingflow.com/)
+* [速融云](https://www.surongyun.cn/)
 * [简道云](https://www.jiandaoyun.com/)
 * [炎黄盈动](https://www.actionsoft.com.cn/)
 * [无远开发平台](https://wuyuan.io/)
