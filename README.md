@@ -135,7 +135,7 @@
 * [react-visible-design](https://github.com/react-visible-design/react-visible-design) 基于react的h5组件搭建
 * [Web Designer](https://github.com/xiaoai7904/web_designer)
 * [h5maker](https://github.com/zhengguorong/h5maker)
-
+* [pl-drag-template](https://github.com/livelyPeng/pl-drag-template)
 
 ---
 
