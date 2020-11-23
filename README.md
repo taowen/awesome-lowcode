@@ -29,7 +29,7 @@
   * [状态管理的问题是什么](https://github.com/mulcloud/state-management-demo)
 * [巴克云](https://www.buckycloud.com/)
 * [数式科技](https://shushi.pro/technology)
-* [明道云](https://www.mingdao.com/)
+* [明道云](https://www.mingdao.com/) 支持公共云和私有部署，私有部署在Github可获得[免费社区版下载](https://github.com/mingdaocom/private-deployment)
 * [轻流](https://qingflow.com/)
 * [速融云](https://www.surongyun.cn/)
 * [简道云](https://www.jiandaoyun.com/)
