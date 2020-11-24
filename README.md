@@ -141,6 +141,7 @@
 * [pl-drag-template](https://github.com/livelyPeng/pl-drag-template)
 * [form-generator](https://github.com/JakHuang/form-generator)：Element UI表单设计及代码生成器
 * [form-render](https://github.com/alibaba/form-render)：通过 JSON Schema 生成标准 Form，基于React
+* [Vue Json Design](https://github.com/fyl080801/vjdesign)
 
 ---
 
