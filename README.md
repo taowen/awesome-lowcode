@@ -23,8 +23,9 @@
 * [点石](https://www.h5ds.com/)
 * [ivx](https://www.ivx.cn/index)
   * [ih5](https://www.ih5.cn/)
-* [闪电数据管理](http://www.gitmen.com/)
+* [闪电数据管理](http://www.gitmen.com/lightning)
   * [闪电数据管理 —— 无代码数据管理(开发)系统](https://zhuanlan.zhihu.com/p/162964986)
+  * [lightning —— 基于Django的无代码Admin及低代码开发框架](https://github.com/git-men/lightning)
 * 乘法云
   * [状态管理的问题是什么](https://github.com/mulcloud/state-management-demo)
 * [巴克云](https://www.buckycloud.com/)
