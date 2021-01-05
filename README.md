@@ -23,6 +23,8 @@
 * [点石](https://www.h5ds.com/)
 * [ivx](https://www.ivx.cn/index)
   * [ih5](https://www.ih5.cn/)
+  * [关于iVX平台实现的总体技术栈【低代码/无代码、可视化开发语言】](https://blog.csdn.net/troymeng/article/details/110384703)
+  * [iVX和其他低代码的开发平台区别究竟在哪里】](https://bbs.ivx.cn/mobile/2746)
 * [闪电数据管理](http://www.gitmen.com/lightning)
   * [闪电数据管理 —— 无代码数据管理(开发)系统](https://zhuanlan.zhihu.com/p/162964986)
   * [lightning —— 基于Django的无代码Admin及低代码开发框架](https://github.com/git-men/lightning)
