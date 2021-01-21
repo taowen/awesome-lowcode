@@ -148,6 +148,7 @@
 * [form-render](https://github.com/alibaba/form-render)：通过 JSON Schema 生成标准 Form，基于React
 * [Vue Json Design](https://github.com/fyl080801/vjdesign)
 * [rebuild](https://gitee.com/getrebuild/rebuild)
+* [W5 SOAR](https://github.com/w5teams/w5)
 
 ---
 
