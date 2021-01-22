@@ -19,6 +19,8 @@
 * 腾讯-积木
   * [积木系统v2@江源.pptx](https://vdisk.weibo.com/s/cSKQveSBDMPco)
   * [积木系统，将运营系统做到极致](https://cloud.tencent.com/developer/article/1055079)
+* 腾讯-lowcode
+  * [腾讯云开发低码平台](https://console.cloud.tencent.com/lowcode)
 * [奥哲](https://www.authine.com/)
 * [点石](https://www.h5ds.com/)
 * [ivx](https://www.ivx.cn/index)
