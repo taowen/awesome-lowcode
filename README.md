@@ -50,6 +50,7 @@
 * [湘北智造](https://www.xjrsoft.com/)
 * [表单大师](https://www.jsform.com/)
 * [Zion/载航](https://functorz.com/)
+* [Appsmith](https://www.appsmith.com/)（[Github](https://github.com/appsmithorg/appsmith)）
 
 ## 页面搭建
 
