@@ -54,6 +54,7 @@
 * [Zion/载航](https://functorz.com/)
 * [Appsmith](https://www.appsmith.com/)（[Github](https://github.com/appsmithorg/appsmith)）
 * [低代码 API 网关：Apache APISIX](https://github.com/apache/apisix)
+  * [Apache APISIX：如何在 API 网关中实现插件编排？](https://www.youtube.com/watch?v=iEegNXOtEhQ)
 
 ## 页面搭建
 
@@ -195,7 +196,6 @@
 * [万物代码化：从低代码、云开发到云研发的思考](https://zhuanlan.zhihu.com/p/141742525)
 * [《早早聊搞搭建》搞过搭建的我收获了什么？](https://juejin.im/post/6844904106767695880) 
 * [工程化之低代码体系](https://juejin.cn/post/6913698066935578631) 
-* [Apache APISIX：如何在 API 网关中实现插件编排？](https://www.youtube.com/watch?v=iEegNXOtEhQ)
 
 ## 技术点
 
