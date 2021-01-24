@@ -54,7 +54,7 @@
 * [Zion/载航](https://functorz.com/)
 * [Appsmith](https://www.appsmith.com/)（[Github](https://github.com/appsmithorg/appsmith)）
 * [低代码 API 网关：Apache APISIX](https://github.com/apache/apisix)
-  * [Apache APISIX：如何在 API 网关中实现插件编排？](https://www.bilibili.com/video/BV145411L7kt)
+  * [如何在 Apache APISIX 中实现插件编排](https://www.bilibili.com/video/BV145411L7kt)
 
 ## 页面搭建
 
