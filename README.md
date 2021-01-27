@@ -35,8 +35,6 @@
 * [闪电数据管理](http://www.gitmen.com/lightning)
   * [闪电数据管理 —— 无代码数据管理(开发)系统](https://zhuanlan.zhihu.com/p/162964986)
   * [lightning —— 基于Django的无代码Admin及低代码开发框架](https://github.com/git-men/lightning)
-* 乘法云
-  * [状态管理的问题是什么](https://github.com/mulcloud/state-management-demo)
 * [巴克云](https://www.buckycloud.com/)
 * [数式科技](https://shushi.pro/technology)
 * [明道云](https://www.mingdao.com/) 支持公共云和私有部署，私有部署在Github可获得[免费社区版下载](https://github.com/mingdaocom/private-deployment)
@@ -56,6 +54,7 @@
 * [表单大师](https://www.jsform.com/)
 * [Zion/载航](https://functorz.com/)
 * [Appsmith](https://www.appsmith.com/)（[Github](https://github.com/appsmithorg/appsmith)）
+* [白码](https://www.bnocode.com/product.html)
 
 ## 页面搭建
 
