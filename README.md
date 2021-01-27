@@ -21,6 +21,10 @@
   * [积木系统，将运营系统做到极致](https://cloud.tencent.com/developer/article/1055079)
 * 腾讯-lowcode
   * [腾讯云开发低码平台](https://console.cloud.tencent.com/lowcode)
+* [无远开发平台](https://wuyuan.io/)
+  * [【无远哲学】无远开发模式的本体-不幻想构造计算机领域的永动机！](https://forum.wuyuan.io/plate/qa/topic/5fe1eb93f03b0a7eaef49584)
+  * [一种只写 SQL 做配置，完成复杂ERP系统的方法](https://forum.wuyuan.io/plate/qa/topic/5d1ad2ea268a2f727aaa494e)
+  * [无远+ShardingSphere 实现分布式数据库应用开发](https://forum.wuyuan.io/plate/qa/topic/5fdafe9c856fee309115a498)
 * [奥哲](https://www.authine.com/)
 * [点石](https://www.h5ds.com/)
 * [ivx](https://www.ivx.cn/index)
@@ -40,7 +44,6 @@
 * [速融云](https://www.surongyun.cn/)
 * [简道云](https://www.jiandaoyun.com/)
 * [炎黄盈动](https://www.actionsoft.com.cn/)
-* [无远开发平台](https://wuyuan.io/)
 * [广州天翎myApps](http://www.teemlink.com/)
 * [活字格](https://www.grapecity.com.cn/solutions/huozige)
 * [起步科技](http://www.wex5.com/)
