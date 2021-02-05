@@ -208,6 +208,8 @@
 * [使用 React 写个简单的活动页面运营系统 - 设计篇](https://segmentfault.com/a/1190000004540256)
 * [【电商】用可视化编辑，解构看起来非常炫酷的专题页面](https://www.jianshu.com/p/c4359a7338d3)
 * [如何搭建一个功能复杂的前端配置化框架(一)](https://www.cnblogs.com/wukong-holmes/p/9287763.html)
+* [可视化拖拽组件库一些技术要点原理分析](https://juejin.cn/post/6908502083075325959)
+* [可视化拖拽组件库一些技术要点原理分析（二）](https://juejin.cn/post/6918881497264947207)
 
 ## 国外
 
