@@ -91,6 +91,7 @@
   * [「可视化搭建系统」——从设计到架构，探索前端领域技术和业务价值](https://zhuanlan.zhihu.com/p/164558106)
 * [阿里-bi designer](https://github.com/dt-fe/weekly/blob/v2/164.%E7%B2%BE%E8%AF%BB%E3%80%8A%E6%95%B0%E6%8D%AE%E6%90%AD%E5%BB%BA%E5%BC%95%E6%93%8E%20bi-designer%20API-%E8%AE%BE%E8%AE%A1%E5%99%A8%E3%80%8B.md)
 * [360 - 即视](https://arena.360.cn/)
+* http://h5.dooring.cn/
   
 ## 店铺装修
 
