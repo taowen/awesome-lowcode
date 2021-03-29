@@ -1,7 +1,5 @@
 # 国内低代码平台
 
-<img width="400" height="600" src="./27f30b093b7237104dd9b098e70758e.jpg" alt="weixin"/>
-
 ## 全栈平台
 
 * 阿里-云凤蝶
