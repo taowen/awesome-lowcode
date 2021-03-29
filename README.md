@@ -157,6 +157,7 @@
 * [rebuild](https://gitee.com/getrebuild/rebuild)
 * [W5 SOAR](https://github.com/w5teams/w5)
 * [Moria - Lowcode development platform](https://github.com/MudOnTire/moria)
+* [nocobase](https://github.com/nocobase/nocobase)
 
 ---
 
