@@ -22,12 +22,9 @@
 * 腾讯-lowcode
   * [腾讯云开发低码平台](https://console.cloud.tencent.com/lowcode)
 * [无远开发平台](https://wuyuan.io/)
-  * [【无远哲学】无远开发模式的本体-不幻想构造计算机领域的永动机！](https://forum.wuyuan.io/plate/qa/topic/5fe1eb93f03b0a7eaef49584)
-  * [一种只写 SQL 做配置，完成复杂ERP系统的方法](https://forum.wuyuan.io/plate/qa/topic/5d1ad2ea268a2f727aaa494e)
-  * [无远+ShardingSphere 实现分布式数据库应用开发](https://forum.wuyuan.io/plate/qa/topic/5fdafe9c856fee309115a498)
+  * [案例](https://wuyuan.io/case)
 * [奥哲](https://www.authine.com/)
   * [氚云](https://h3yun.com/index.php?g=Chuanyun&m=Index&a=index)
-* [点石](https://www.h5ds.com/)
 * [ivx](https://www.ivx.cn/index)
   * [关于iVX平台实现的总体技术栈【低代码/无代码、可视化开发语言】](https://blog.csdn.net/troymeng/article/details/110384703)
   * [iVX是怎么开发出来的？0代码开发的理论基础是什么？】](https://bbs.ivx.cn/1535) 
@@ -68,6 +65,7 @@
 * [稿定设计](https://m.gaoding.com/)
 * [壹伴](https://yiban.io/)
 * [创客贴](https://www.chuangkit.com/)
+* [点石](https://www.h5ds.com/)
 * 京东-通天塔
   * [京东商城活动页面构建系统——通天塔](https://blog.csdn.net/zl1zl2zl3/article/details/84661421)
 * [阿里-imgcook](https://imgcook.taobao.org/)
