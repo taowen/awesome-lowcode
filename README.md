@@ -1,38 +1,15 @@
 # 国内低代码平台
 
 ## 全栈平台
-
-* 阿里-云凤蝶
-  * [蚂蚁杨周璇：我做前端这十多年来的感悟](https://mp.weixin.qq.com/s/GiFpswpm_N_5MlnBywRTgw)
-  * [云凤蝶可视化搭建的推导与实现](https://zhuanlan.zhihu.com/p/101665976)
-  * [云凤蝶中台研发提效实践](https://zhuanlan.zhihu.com/p/78425921)
-  * [中台建站的智能化探索](https://zhuanlan.zhihu.com/p/54422324)
-  * [云凤蝶如何打造媲美 sketch 的自由画布](https://zhuanlan.zhihu.com/p/92469406)
-  * [云凤蝶自由画布之道：分层模型](https://zhuanlan.zhihu.com/p/97768853)
-* 阿里-金蝉
-  * [长夜未央——企业级研发提效的下一阶段](https://zhuanlan.zhihu.com/p/66474056)
-  * [十倍效能提升——Web 基础研发体系的建立](https://zhuanlan.zhihu.com/p/34790596)
-  * [前端服务化——页面搭建工具的死与生](https://www.cnblogs.com/sskyy/p/6496287.html)
 * [阿里-宜搭](https://www.aliwork.com/)
-* 阿里-天马
-  * [如何设计阿里经济体都在用的搭建服务—天马](https://zhuanlan.zhihu.com/p/137470317)
-* 腾讯-积木
-  * [积木系统v2@江源.pptx](https://vdisk.weibo.com/s/cSKQveSBDMPco)
-  * [积木系统，将运营系统做到极致](https://cloud.tencent.com/developer/article/1055079)
-* 腾讯-lowcode
-  * [腾讯云开发低码平台](https://console.cloud.tencent.com/lowcode)
+* [腾讯云开发低码平台](https://console.cloud.tencent.com/lowcode)
 * [无远开发平台](https://wuyuan.io/)
   * [案例](https://wuyuan.io/case)
 * [奥哲](https://www.authine.com/)
   * [氚云](https://h3yun.com/index.php?g=Chuanyun&m=Index&a=index)
 * [ivx](https://www.ivx.cn/index)
-  * [关于iVX平台实现的总体技术栈【低代码/无代码、可视化开发语言】](https://blog.csdn.net/troymeng/article/details/110384703)
-  * [iVX是怎么开发出来的？0代码开发的理论基础是什么？】](https://bbs.ivx.cn/1535) 
-  * [iVX和其他低代码的开发平台区别究竟在哪里](https://bbs.ivx.cn/mobile/2746)
   * [ih5](https://www.ih5.cn/)
 * [闪电数据管理](http://www.gitmen.com/lightning)
-  * [闪电数据管理 —— 无代码数据管理(开发)系统](https://zhuanlan.zhihu.com/p/162964986)
-  * [lightning —— 基于Django的无代码Admin及低代码开发框架](https://github.com/git-men/lightning)
 * [巴克云](https://www.buckycloud.com/)
 * [数式科技](https://shushi.pro/technology)
 * [明道云](https://www.mingdao.com/) 支持公共云和私有部署，私有部署在Github可获得[免费社区版下载](https://github.com/mingdaocom/private-deployment)
@@ -53,6 +30,31 @@
 * [Zion/载航](https://functorz.com/)
 * [Appsmith](https://www.appsmith.com/)（[Github](https://github.com/appsmithorg/appsmith)）
 * [白码](https://www.bnocode.com/product.html)
+
+## 观点及分享
+* 阿里-云凤蝶
+  * [蚂蚁杨周璇：我做前端这十多年来的感悟](https://mp.weixin.qq.com/s/GiFpswpm_N_5MlnBywRTgw)
+  * [云凤蝶可视化搭建的推导与实现](https://zhuanlan.zhihu.com/p/101665976)
+  * [云凤蝶中台研发提效实践](https://zhuanlan.zhihu.com/p/78425921)
+  * [中台建站的智能化探索](https://zhuanlan.zhihu.com/p/54422324)
+  * [云凤蝶如何打造媲美 sketch 的自由画布](https://zhuanlan.zhihu.com/p/92469406)
+  * [云凤蝶自由画布之道：分层模型](https://zhuanlan.zhihu.com/p/97768853)
+* 阿里-金蝉
+  * [长夜未央——企业级研发提效的下一阶段](https://zhuanlan.zhihu.com/p/66474056)
+  * [十倍效能提升——Web 基础研发体系的建立](https://zhuanlan.zhihu.com/p/34790596)
+  * [前端服务化——页面搭建工具的死与生](https://www.cnblogs.com/sskyy/p/6496287.html)
+* 阿里-天马
+  * [如何设计阿里经济体都在用的搭建服务—天马](https://zhuanlan.zhihu.com/p/137470317)
+* 腾讯-积木
+  * [积木系统v2@江源.pptx](https://vdisk.weibo.com/s/cSKQveSBDMPco)
+  * [积木系统，将运营系统做到极致](https://cloud.tencent.com/developer/article/1055079)
+* [ivx](https://www.ivx.cn/index)
+  * [关于iVX平台实现的总体技术栈【低代码/无代码、可视化开发语言】](https://blog.csdn.net/troymeng/article/details/110384703)
+  * [iVX是怎么开发出来的？0代码开发的理论基础是什么？】](https://bbs.ivx.cn/1535) 
+  * [iVX和其他低代码的开发平台区别究竟在哪里](https://bbs.ivx.cn/mobile/2746)
+* [闪电数据管理](http://www.gitmen.com/lightning)
+  * [闪电数据管理 —— 无代码数据管理(开发)系统](https://zhuanlan.zhihu.com/p/162964986)
+  * [lightning —— 基于Django的无代码Admin及低代码开发框架](https://github.com/git-men/lightning)
 
 ## 页面搭建
 
