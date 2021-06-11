@@ -54,6 +54,8 @@
 * [Appsmith](https://www.appsmith.com/)（[Github](https://github.com/appsmithorg/appsmith)）
 * [白码](https://www.bnocode.com/product.html)
 * [捷码](https://gemcoder.com/)
+  * 支持业务系统/管理系统、可视化大屏、3D园区低码快速开发
+  * 支持离线部署
 
 ## 页面搭建
 
