@@ -23,6 +23,7 @@
   * [腾讯云开发低码平台](https://console.cloud.tencent.com/lowcode)
 * [无远开发平台](https://wuyuan.io/)
   * [案例](https://wuyuan.io/case)
+  * [为什么专业开发者都选择无远](https://zhuanlan.zhihu.com/p/382493959)
 * [奥哲](https://www.authine.com/)
   * [氚云](https://h3yun.com/index.php?g=Chuanyun&m=Index&a=index)
 * [ivx](https://www.ivx.cn/index)
