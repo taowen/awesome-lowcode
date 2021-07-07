@@ -204,7 +204,8 @@
 * [无代码编程](https://zhuanlan.zhihu.com/p/61288928)
 * [万物代码化：从低代码、云开发到云研发的思考](https://zhuanlan.zhihu.com/p/141742525)
 * [《早早聊搞搭建》搞过搭建的我收获了什么？](https://juejin.im/post/6844904106767695880) 
-* [工程化之低代码体系](https://juejin.cn/post/6913698066935578631) 
+* [工程化之低代码体系](https://juejin.cn/post/6913698066935578631)
+* [LowCode平台前端实战之京东投放素材中心](https://zhuanlan.zhihu.com/p/386761240) 
 
 ## 技术点
 
