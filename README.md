@@ -40,7 +40,7 @@
 * [轻流](https://qingflow.com/)
 * [速融云](https://www.surongyun.cn/)
 * [简道云](https://www.jiandaoyun.com/)
-* [双链DaaS] (https://github.com/doublechaintech/daas-start-kit)
+* [双链DaaS](https://github.com/doublechaintech/daas-start-kit)
   * [直接通过Github Actions体验](https://github.com/doublechaintech/daas-with-github-actions)
   * [大型系统构建案例-1.5K Stars](https://github.com/doublechaintech/scm-biz-suite)
   * [包含实时预效果的KSML操练场-开发中](http://kg2x.doublechaintech.com/view/playground)
