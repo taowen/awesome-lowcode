@@ -256,6 +256,7 @@
 * https://layoutit.com/
 * https://www.claris.com/zh/filemaker/
 * FoC 聊天记录：https://marianoguerra.github.io/future-of-coding-weekly/history/?fromDate=2017-06-13&toDate=2017-06-14&channel=general&filter=
+* https://www.joget.com/
 
 # 一切改进都是源自于人类的缺陷
 
@@ -272,7 +273,7 @@
     * 驱动状态数量熵增的三大因素：
       * 因为交互体验的要求，从后端到富客户端到3d动画，状态被复制多份，越来越靠近展示层
       * 因为硬件物理的约束，内存从CPU统一寻址，到异构计算，CUDA，每个硬件核都有一层自己的内存
-      * 因为数据量的增长，从统一的OLAP从库，到Data Lake，Data Mart，数据被复制成越来越份，流水线越来越长
+      * 因为数据量的增长，从统一的OLAP从库，到Data Lake，Data Mart，数据被复制成越来越多份，流水线越来越长
     * 对抗状态数量熵增的手段：
       * 【声明式数据联动】减少独立变化的状态，用表达式来表达 derived state
       * 【全局虚拟数据层】借鉴Unix的统一文件抽象，引入一层统一的虚拟数据层。尽可能把状态转化成 cache
