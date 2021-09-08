@@ -61,6 +61,9 @@
 * [捷码](https://gemcoder.com/)
   * 支持业务系统/管理系统、可视化大屏、3D园区低码快速开发
   * 支持离线部署
+* [明源云-天际开放平台](https://open.mingyuanyun.com)
+  * [移动平台](https://open.mingyuanyun.com/product/mobile)
+  * [建模平台](https://open.mingyuanyun.com/product/model)
 
 ## 页面搭建
 
