@@ -64,7 +64,11 @@
 * [明源云-天际开放平台](https://open.mingyuanyun.com)
   * [移动平台](https://open.mingyuanyun.com/product/mobile)
   * [建模平台](https://open.mingyuanyun.com/product/model)
-
+* [crudapi-增删改查接口平台](https://crudapi.cn)
+  * [无需编程，通过配置零代码生成crud增删改查RESTful API和UI](https://help.crudapi.cn/helloworld.html)
+  * [前端（开源）](https://github.com/crudapi/crudapi-admin-web)：Vue + Quasar实现Web管理UI，可任意修改
+  * [后端（个人版免费）](https://github.com/crudapi/crudapi-example)：Java + MySql实现Service，支持二次开发和私有部署
+  * [demo演示](https://demo.crudapi.cn/crudapi/)
 ## 页面搭建
 
 仅包含前端部分的 low code 平台
