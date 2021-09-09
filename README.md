@@ -40,6 +40,7 @@
 * [轻流](https://qingflow.com/)
 * [速融云](https://www.surongyun.cn/)
 * [简道云](https://www.jiandaoyun.com/)
+* [启业云](https://www.qycloud.com.cn/)
 * [双链DaaS](https://github.com/doublechaintech/daas-start-kit)
   * [直接通过Github Actions体验](https://github.com/doublechaintech/daas-with-github-actions)
   * [大型系统构建案例-1.5K Stars](https://github.com/doublechaintech/scm-biz-suite)
@@ -70,6 +71,11 @@
   * [织信Informat携手低码星球探讨「企业数字化转型之路」](https://www.informat.cn/detail/248)
   * [如何通过织信Informat快速搭建流程审批系统？](https://www.informat.cn/detail/228)
   * [5K字深度讲解：如何用织信Informat搭建OA和进销存？](https://zhuanlan.zhihu.com/p/393588263)
+* [crudapi-增删改查接口平台](https://crudapi.cn)
+  * [无需编程，通过配置零代码生成crud增删改查RESTful API和UI](https://help.crudapi.cn/helloworld.html)
+  * [前端（开源）](https://github.com/crudapi/crudapi-admin-web)：Vue + Quasar实现Web管理UI，可任意修改
+  * [后端（个人版免费）](https://github.com/crudapi/crudapi-example)：Java + MySql实现Service，支持二次开发和私有部署
+  * [demo演示](https://demo.crudapi.cn/crudapi/)
 
 ## 页面搭建
 
