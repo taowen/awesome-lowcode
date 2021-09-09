@@ -65,11 +65,18 @@
 * [明源云-天际开放平台](https://open.mingyuanyun.com)
   * [移动平台](https://open.mingyuanyun.com/product/mobile)
   * [建模平台](https://open.mingyuanyun.com/product/model)
+* [织信低代码平台](https://www.informat.cn/)
+  * [平台简介](https://www.informat.cn/promotion)
+  * [生产领域实践案例&君乐宝](https://www.informat.cn/case/jlb)
+  * [织信Informat携手低码星球探讨「企业数字化转型之路」](https://www.informat.cn/detail/248)
+  * [如何通过织信Informat快速搭建流程审批系统？](https://www.informat.cn/detail/228)
+  * [5K字深度讲解：如何用织信Informat搭建OA和进销存？](https://zhuanlan.zhihu.com/p/393588263)
 * [crudapi-增删改查接口平台](https://crudapi.cn)
   * [无需编程，通过配置零代码生成crud增删改查RESTful API和UI](https://help.crudapi.cn/helloworld.html)
   * [前端（开源）](https://github.com/crudapi/crudapi-admin-web)：Vue + Quasar实现Web管理UI，可任意修改
   * [后端（个人版免费）](https://github.com/crudapi/crudapi-example)：Java + MySql实现Service，支持二次开发和私有部署
   * [demo演示](https://demo.crudapi.cn/crudapi/)
+
 ## 页面搭建
 
 仅包含前端部分的 low code 平台
