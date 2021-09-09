@@ -40,6 +40,7 @@
 * [轻流](https://qingflow.com/)
 * [速融云](https://www.surongyun.cn/)
 * [简道云](https://www.jiandaoyun.com/)
+* [启业云](https://www.qycloud.com.cn/)
 * [双链DaaS](https://github.com/doublechaintech/daas-start-kit)
   * [直接通过Github Actions体验](https://github.com/doublechaintech/daas-with-github-actions)
   * [大型系统构建案例-1.5K Stars](https://github.com/doublechaintech/scm-biz-suite)
