@@ -21,6 +21,10 @@
   * [积木系统，将运营系统做到极致](https://cloud.tencent.com/developer/article/1055079)
 * 腾讯-lowcode
   * [腾讯云开发低码平台](https://console.cloud.tencent.com/lowcode)
+* 葡萄城-活字格
+  * [活字格企业级低代码开发平台](https://www.grapecity.com.cn/solutions/huozige)
+  * [活字格产品经理胡耀：看活字格低代码平台是如何诞生的](https://www.soft6.com/news/2021/08/24/377493.html)
+  * [驳“低代码开发取代程序员”论 为什么专业开发者也需要低代码？](https://segmentfault.com/a/1190000040842990)
 * [无远开发平台](https://wuyuan.io/)
   * [案例](https://wuyuan.io/case)
   * [为什么专业开发者都选择无远](https://zhuanlan.zhihu.com/p/382493959)
@@ -47,7 +51,6 @@
   * [包含实时预效果的KSML操练场-开发中](http://kg2x.doublechaintech.com/view/playground)
 * [炎黄盈动](https://www.actionsoft.com.cn/)
 * [广州天翎myApps](http://www.teemlink.com/)
-* [活字格](https://www.grapecity.com.cn/solutions/huozige)
 * [起步科技](http://www.wex5.com/)
 * [金蝶云-苍穹](http://www.kingdee.com/products/cosmic)
 * [普元](http://primeton.com/products/ep/overview.php)
