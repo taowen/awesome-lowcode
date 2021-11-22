@@ -80,6 +80,11 @@
   * [后端（个人版免费）](https://github.com/crudapi/crudapi-example)：Java + MySql实现Service，支持二次开发和私有部署
   * [demo演示](https://demo.crudapi.cn/crudapi/)
 
+## 低代码组件库
+
+* [爱组搭 AiZuDa](https://gitee.com/aizuda/aizuda-components)
+
+
 ## 页面搭建
 
 仅包含前端部分的 low code 平台
