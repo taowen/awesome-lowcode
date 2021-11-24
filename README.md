@@ -218,7 +218,7 @@
 
 ## 行业综述
 
-* [解读Forrester《The State Of Low-Code Platforms In China》（中国低代码平台发展报告）全文：9类低代码平台厂商，主要服务垄断行业和制造业](https://zhuanlan.zhihu.com/p/436106248)
+* [Forrester《The State Of Low-Code Platforms In China》（中国低代码平台发展报告）](https://zhuanlan.zhihu.com/p/436106248)
 * [精读《对低代码搭建的理解》](https://zhuanlan.zhihu.com/p/161783546)
 * [页面可视化搭建工具前生今世](https://zhuanlan.zhihu.com/p/37171897)
 * [React.js 可视化编辑工具](https://juejin.im/post/5d7ae944f265da03c5033e38)
