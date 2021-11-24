@@ -218,6 +218,7 @@
 
 ## 行业综述
 
+* [解读Forrester《The State Of Low-Code Platforms In China》（中国低代码平台发展报告）全文：9类低代码平台厂商，主要服务垄断行业和制造业](https://zhuanlan.zhihu.com/p/436106248)
 * [精读《对低代码搭建的理解》](https://zhuanlan.zhihu.com/p/161783546)
 * [页面可视化搭建工具前生今世](https://zhuanlan.zhihu.com/p/37171897)
 * [React.js 可视化编辑工具](https://juejin.im/post/5d7ae944f265da03c5033e38)
@@ -243,6 +244,7 @@
 * [可视化拖拽组件库一些技术要点原理分析](https://juejin.cn/post/6908502083075325959)
 * [可视化拖拽组件库一些技术要点原理分析（二）](https://juejin.cn/post/6918881497264947207)
 * [可视化拖拽组件库一些技术要点原理分析（三）](https://juejin.cn/post/6929302655118344200)
+* [揭秘活字格最受程序员喜爱的三大功能背后的设计思路](https://www.grapecity.com.cn/blogs/huozige-the-three-most-popular-features-for-programmers)
 
 ## 国外
 
