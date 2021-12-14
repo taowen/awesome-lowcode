@@ -128,7 +128,7 @@
 * [阿里-飞冰](https://ice.work/)
 * [阿里-formilyjs](https://formilyjs.org/)
   * [MegaLayout - 下一代Formily表单布局解决方案](https://zhuanlan.zhihu.com/p/133906363)
-  * https://designable-antd.formilyjs.org/
+  * https://designable.netlify.app/
 * [阿里-gaea-editor](https://github.com/ascoders/gaea-editor)
   * [可视化在线编辑器架构设计](https://www.jianshu.com/p/840e0b0b2c6a)
 * [阿里-sula](https://github.com/umijs/sula)
