@@ -114,6 +114,7 @@
 * [阿里-bi designer](https://github.com/dt-fe/weekly/blob/v2/164.%E7%B2%BE%E8%AF%BB%E3%80%8A%E6%95%B0%E6%8D%AE%E6%90%AD%E5%BB%BA%E5%BC%95%E6%93%8E%20bi-designer%20API-%E8%AE%BE%E8%AE%A1%E5%99%A8%E3%80%8B.md)
 * [360 - 即视](https://arena.360.cn/)
 * http://h5.dooring.cn/
+* https://quarkly.io/  No-code / Low-code platform for creating websites and web apps.
   
 ## 店铺装修
 
@@ -277,7 +278,6 @@
 * https://www.claris.com/zh/filemaker/
 * FoC 聊天记录：https://marianoguerra.github.io/future-of-coding-weekly/history/?fromDate=2017-06-13&toDate=2017-06-14&channel=general&filter=
 * https://www.joget.com/
-* https://quarkly.io/  No-code / Low-code platform for creating websites and web apps.
 
 # 一切改进都是源自于人类的缺陷
 
