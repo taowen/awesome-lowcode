@@ -79,7 +79,10 @@
   * [前端（开源）](https://github.com/crudapi/crudapi-admin-web)：Vue + Quasar实现Web管理UI，可任意修改
   * [后端（个人版免费）](https://github.com/crudapi/crudapi-example)：Java + MySql实现Service，支持二次开发和私有部署
   * [demo演示](https://demo.crudapi.cn/crudapi/)
-
+* [Gadmin企业级低代码开发平台](https://www.gadmin8.com/)
+  * [平台简介](https://www.gadmin8.com/index/about.html)
+  * [平台演示](https://demo.gadmin8.com/)
+  
 ## 页面搭建
 
 仅包含前端部分的 low code 平台
