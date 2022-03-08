@@ -83,6 +83,8 @@
 * [Gadmin企业级低代码开发平台](https://www.gadmin8.com/)
   * [平台简介](https://www.gadmin8.com/index/about.html)
   * [平台演示](https://demo.gadmin8.com/)
+* [象传智慧](https://www.iqka.com/docs/?engine)
+  * [Yao](https://yaoapps.com/)
   
 ## 页面搭建
 
