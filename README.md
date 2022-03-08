@@ -164,6 +164,7 @@
 * [vue-admin](https://github.com/jiangshanmeta/vue-admin)
 * [鲁班 H5](https://github.com/ly525/luban-h5)
 * [华炎魔方](https://github.com/steedos/steedos-platform/)
+  * [低代码 DevOps 平台协议](https://low-code-protocol.com/docs/overview) 
 * [h5-factory](https://github.com/yangyuji/h5-factory)
   * [一个简单易用的电商活动页面生成系统](https://juejin.im/post/5cf328706fb9a07f042030f0)
 * [vision](https://github.com/tuoxiansp/vision)
