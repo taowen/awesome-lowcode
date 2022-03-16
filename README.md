@@ -87,6 +87,7 @@
   * [平台演示](https://demo.gadmin8.com/)
 * [象传智慧](https://www.iqka.com/docs/?engine)
   * [Yao](https://yaoapps.com/)
+* [引迈信息](https://www.jnpfsoft.com/)
   
 ## 页面搭建
 
