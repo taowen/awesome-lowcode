@@ -141,7 +141,7 @@
   * [MegaLayout - 下一代Formily表单布局解决方案](https://zhuanlan.zhihu.com/p/133906363)
   * https://github.com/alibaba/designable
 * [阿里-gaea-editor](https://github.com/ascoders/gaea-editor)
-  * [可视化在线编辑器架构设计](https://www.jianshu.com/p/840e0b0b2c6a)
+  * [可视化在线编辑器架构设计](https://juejin.cn/post/6844903455417434119)
 * [阿里-sula](https://github.com/umijs/sula)
 * https://github.com/alibaba/lowcode-engine
 * [blockVisualEditor](https://github.com/sww1230/blockVisualEditor)
