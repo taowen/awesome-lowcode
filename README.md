@@ -79,8 +79,8 @@
   * [5K字深度讲解：如何用织信Informat搭建OA和进销存？](https://zhuanlan.zhihu.com/p/393588263)
 * [crudapi-增删改查接口平台](https://crudapi.cn)
   * [无需编程，通过配置零代码生成crud增删改查RESTful API和UI](https://help.crudapi.cn/helloworld.html)
-  * [前端（开源）](https://github.com/crudapi/crudapi-admin-web)：Vue + Quasar实现Web管理UI，可任意修改
-  * [后端（个人版免费）](https://github.com/crudapi/crudapi-example)：Java + MySql实现Service，支持二次开发和私有部署
+  * [前端（开源）](https://github.com/crudapi/crudapi-admin-web)：Vue + Quasar实现Web管理UI，可任意修改。
+  * [后端（商业使用永久免费，无任何功能限制）](https://github.com/crudapi/crudapi-example)：Java + Jdbc实现Service，数据库支持MySQL、PostgreSQL、SQL Server和Oracle，支持二次开发和私有部署。
   * [demo演示](https://demo.crudapi.cn/crudapi/)
 * [Gadmin企业级低代码开发平台](https://www.gadmin8.com/)
   * [平台简介](https://www.gadmin8.com/index/about.html)
