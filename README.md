@@ -103,6 +103,8 @@
 * [壹伴](https://yiban.io/)
 * [创客贴](https://www.chuangkit.com/)
 * [点石](https://www.h5ds.com/)
+* 腾讯-tmagic-editor
+  * [开源的页面可视化搭建编辑器tmagic-editor](https://github.com/Tencent/tmagic-editor)
 * 京东-通天塔
   * [京东商城活动页面构建系统——通天塔](https://blog.csdn.net/zl1zl2zl3/article/details/84661421)
 * [阿里-imgcook](https://imgcook.taobao.org/)
