@@ -287,6 +287,7 @@
 * https://www.squarespace.com/
 * https://www.framer.com/
 * https://www.figma.com/
+* https://linx.software/
 * https://www.mendix.com/zh/
 * https://www.outsystems.com/
 * https://retool.com/
