@@ -14,9 +14,11 @@
   * [十倍效能提升——Web 基础研发体系的建立](https://zhuanlan.zhihu.com/p/34790596)
   * [前端服务化——页面搭建工具的死与生](https://www.cnblogs.com/sskyy/p/6496287.html)
 * [阿里-宜搭](https://www.aliwork.com/)
+* 阿里-通用低代码基础设施
+  * [低代码引擎搭建协议规范](https://lowcode-engine.cn/lowcode) | [低代码引擎物料协议规范](https://lowcode-engine.cn/material) | [低代码引擎资产包协
+议规范](https://lowcode-engine.cn/assets)
+  * [阿里开源的低代码引擎](https://github.com/alibaba/lowcode-engine) | [官网](https://lowcode-engine.cn)
   * [阿里低代码引擎和生态建设实战及思考](https://mp.weixin.qq.com/s/MI6MrUKKydtnSdO4xq6jwA)
-  * [阿里巴巴中后台前端搭建协议规范](https://lowcode-engine.cn/lowcode) | [阿里巴巴中后台前端物料规范](https://lowcode-engine.cn/material)
-  * [阿里开源的低代码引擎](https://github.com/alibaba/lowcode-engine)
 * 阿里-天马
   * [如何设计阿里经济体都在用的搭建服务—天马](https://zhuanlan.zhihu.com/p/137470317)
 * 腾讯-积木
