@@ -203,6 +203,7 @@
 * [W5 SOAR](https://github.com/w5teams/w5)
 * [Moria - Lowcode development platform](https://github.com/MudOnTire/moria)
 * [nocobase](https://github.com/nocobase/nocobase)
+* [Mall-Cook](https://github.com/wangyuan389/mall-cook)
 
 ---
 
