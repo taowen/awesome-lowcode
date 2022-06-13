@@ -149,6 +149,7 @@
 * [阿里-gaea-editor](https://github.com/ascoders/gaea-editor)
   * [可视化在线编辑器架构设计](https://juejin.cn/post/6844903455417434119)
 * [阿里-sula](https://github.com/umijs/sula)
+* [视搭-视频可视化搭建](https://github.com/tnfe/shida)
 * https://github.com/alibaba/lowcode-engine
 * [blockVisualEditor](https://github.com/sww1230/blockVisualEditor)
 * [pager](https://github.com/laispace/pager)
