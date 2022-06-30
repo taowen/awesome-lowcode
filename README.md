@@ -234,6 +234,7 @@
 * [Airtable](https://airtable.com/)
 * [Notion](https://www.notion.so/)
 * https://welovenocode.com/nocodelist
+* [Taskade](https://www.taskade.com/)
 
 ## 声明式编程
 
