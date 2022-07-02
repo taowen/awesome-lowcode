@@ -92,10 +92,11 @@
 * [引迈信息](https://www.jnpfsoft.com/)
 * [兰途科技](http://www.app8848.com)
   * [aPass软件工厂](https://www.yuque.com/books/share/9aab5860-6301-4519-a8ae-ac1d3b9dee11)
-* [矩阵低代码](https://www.deepmatrix.cn/)  
-	* [平台演示](https://server.deepmatrx.cn/)
-	* [平台介绍](https://www.yuque.com/dawei-ktv92)
-  
+* [矩阵低代码](https://www.deepmatrix.cn/) : 支持私有化部署，支持离线部署，私有化部署版本可跟随主版本免费升级
+	* [平台演示](https://server.deepmatrix.cn/) : 账户：15000000000 密码： 123456
+	* [平台介绍](https://www.deepmatrix.cn/)
+	* [系统文档](https://www.yuque.com/dawei-ktv92)
+	
 ## 页面搭建
 
 仅包含前端部分的 low code 平台
