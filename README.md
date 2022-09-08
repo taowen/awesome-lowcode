@@ -213,6 +213,7 @@
 * [Mall-Cook](https://github.com/wangyuan389/mall-cook)
 * [全象低代码平台渲染引擎 Artery Renderer](https://github.com/quanxiang-cloud/one-for-all/tree/main/packages/artery-renderer)
 * https://github.com/bojue/Web-Editor
+* [OpenDataV - 基于Vue3的拖拽式、低代码数据可视化平台](https://github.com/AnsGoo/openDataV)
 
 ---
 
