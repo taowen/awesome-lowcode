@@ -96,6 +96,12 @@
 	* [平台演示](https://server.deepmatrix.cn/) : 账户：15000000000 密码： 123456
 	* [平台介绍](https://www.deepmatrix.cn/)
 	* [系统文档](https://www.yuque.com/dawei-ktv92)
+* [星云座插件式低代码](https://www.xingyunzuo.com/) 
+	* 插件方式融入现有的业务系统，贯通用户权限和业务数据，赋能业务系统具备低代码开发能力
+	* 支持开发平台/项目私有化部署，开发平台与项目相互独立互补依赖
+	* [产品介绍](https://mp.weixin.qq.com/s/3PyctlBCIbOQRiCunFlR3Q)
+	* [平台演示](https://dev.xingyunzuo.com/): 用户名：18888888888 密码：888888
+	* [产品视频](https://space.bilibili.com/2045740689)
 	
 ## 页面搭建
 
