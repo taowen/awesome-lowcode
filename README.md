@@ -37,7 +37,7 @@
   * [氚云](https://h3yun.com/index.php?g=Chuanyun&m=Index&a=index)
 * [ivx](https://www.ivx.cn/index)
   * [关于iVX平台实现的总体技术栈【低代码/无代码、可视化开发语言】](https://blog.csdn.net/troymeng/article/details/110384703)
-  * [iVX是怎么开发出来的？0代码开发的理论基础是什么？】](https://bbs.ivx.cn/1535) 
+  * [iVX是怎么开发出来的？0代码开发的理论基础是什么？](https://bbs.ivx.cn/1535) 
   * [iVX和其他低代码的开发平台区别究竟在哪里](https://bbs.ivx.cn/mobile/2746)
   * [ih5](https://www.ih5.cn/)
 * [闪电数据管理](http://www.gitmen.com/lightning)
