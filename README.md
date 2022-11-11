@@ -71,8 +71,8 @@
   * 支持业务系统/管理系统、可视化大屏、3D园区低码快速开发
   * 支持离线部署
 * [明源云-天际开放平台](https://open.mingyuanyun.com)
-  * [移动平台](https://open.mingyuanyun.com/product/mobile)
-  * [建模平台](https://open.mingyuanyun.com/product/model)
+  * [移动平台](https://open.mingyuanyun.com/product/mpaas)
+  * [建模平台](https://open.mingyuanyun.com/product/platform)
 * [织信低代码平台](https://www.informat.cn/)
   * [平台简介](https://www.informat.cn/promotion)
   * [生产领域实践案例&君乐宝](https://www.informat.cn/case/jlb)
