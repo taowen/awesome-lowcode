@@ -26,6 +26,7 @@
   * [积木系统，将运营系统做到极致](https://cloud.tencent.com/developer/article/1055079)
 * 腾讯-lowcode
   * [腾讯云开发低码平台](https://console.cloud.tencent.com/lowcode)
+  * [腾讯无极低码平台](https://wujicode.cn)
 * 葡萄城-活字格
   * [活字格企业级低代码开发平台](https://www.grapecity.com.cn/solutions/huozige)
   * [活字格产品经理胡耀：看活字格低代码平台是如何诞生的](https://www.soft6.com/news/2021/08/24/377493.html)
