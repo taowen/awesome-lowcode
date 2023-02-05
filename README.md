@@ -108,7 +108,11 @@
 	* 支持可视化小程序搭建、
 	* 支持各种业务系统开发（具有表单、工作流、报表设计等模块）
 	* [系统文档](https://www.yuque.com/zhonglixunni/wali)
-	
+* [瀚码工业低代码](https://www.hancode.com/products/lcdp) 
+	* 四大工业特性：工业组件（工艺流程图、工作日历、脑图、树形图、鱼骨头...）、工业模版（MES、TPM、QMS、WMS、AMES）、移动PDA支持、系统对接（PLC、CNC、注塑机、ERP...）
+	* 模型驱动、应用可与开发平台分离【重点】
+	* [系统文档](https://hancode.yuque.com/ibi3kw/qzp9ku/ywwzqm)
+	* [产品介绍](https://www.zhihu.com/question/402663485/answer/2772342587)
 ## 页面搭建
 
 仅包含前端部分的 low code 平台
