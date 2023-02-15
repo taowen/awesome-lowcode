@@ -144,9 +144,13 @@
   * [活动专题系统搭建过程中我的一些思考](https://www.dazhuanlan.com/2019/10/07/5d9a698bdde35/)
 * 携程-乐高
   * [干货 | 已配置4000+页面，携程前端组件化探索之“乐高”运营系统](https://mp.weixin.qq.com/s/WDCkXEBa0bA-h_8L6cBcJw)
+* 云智慧-FlyFish
+  * [低门槛、高拓展性的低代码应用开发平台](https://www.cloudwise.ai/flyFish.html)
 * 知乎-Versatile Editor
   * [「可视化搭建系统」——从设计到架构，探索前端领域技术和业务价值](https://zhuanlan.zhihu.com/p/164558106)
 * [阿里-bi designer](https://github.com/dt-fe/weekly/blob/v2/164.%E7%B2%BE%E8%AF%BB%E3%80%8A%E6%95%B0%E6%8D%AE%E6%90%AD%E5%BB%BA%E5%BC%95%E6%93%8E%20bi-designer%20API-%E8%AE%BE%E8%AE%A1%E5%99%A8%E3%80%8B.md)
+
+
 * [360 - 即视](https://arena.360.cn/)
 * http://h5.dooring.cn/
 * https://quarkly.io/  No-code / Low-code platform for creating websites and web apps.
