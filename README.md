@@ -38,7 +38,7 @@
   * [氚云](https://h3yun.com/index.php?g=Chuanyun&m=Index&a=index)
 * [ivx](https://www.ivx.cn/index)
   * [关于iVX平台实现的总体技术栈【低代码/无代码、可视化开发语言】](https://blog.csdn.net/troymeng/article/details/110384703)
-  * [iVX是怎么开发出来的？0代码开发的理论基础是什么？](https://bbs.ivx.cn/1535) 
+  * [iVX是怎么开发出来的？0代码开发的理论基础是什么？](https://bbs.ivx.cn/1535)
   * [iVX和其他低代码的开发平台区别究竟在哪里](https://bbs.ivx.cn/mobile/2746)
   * [ih5](https://www.ih5.cn/)
 * [闪电数据管理](http://www.gitmen.com/lightning)
@@ -98,17 +98,17 @@
 	* [平台演示](https://server.deepmatrix.cn/) : 账户：15000000000 密码： 123456
 	* [平台介绍](https://www.deepmatrix.cn/)
 	* [系统文档](https://www.yuque.com/dawei-ktv92)
-* [星云座插件式低代码](https://www.xingyunzuo.com/) 
+* [星云座插件式低代码](https://www.xingyunzuo.com/)
 	* 插件方式融入现有的业务系统，贯通用户权限和业务数据，赋能业务系统具备低代码开发能力
 	* 支持开发平台/项目私有化部署，开发平台与项目相互独立互补依赖
 	* [产品介绍](https://mp.weixin.qq.com/s/3PyctlBCIbOQRiCunFlR3Q)
 	* [平台演示](https://dev.xingyunzuo.com/): 用户名：18888888888 密码：888888
 	* [产品视频](https://space.bilibili.com/2045740689)
-* [瓦立应用](https://www.waliapp.cn/) 
+* [瓦立应用](https://www.waliapp.cn/)
 	* 支持可视化小程序搭建、
 	* 支持各种业务系统开发（具有表单、工作流、报表设计等模块）
 	* [系统文档](https://www.yuque.com/zhonglixunni/wali)
-* [瀚码工业低代码](https://www.hancode.com/products/lcdp) 
+* [瀚码工业低代码](https://www.hancode.com/products/lcdp)
 	* 四大工业特性：工业组件（工艺流程图、工作日历、脑图、树形图、鱼骨头...）、工业模版（MES、TPM、QMS、WMS、AMES）、移动PDA支持、系统对接（PLC、CNC、注塑机、ERP...）
 	* 模型驱动、应用可与开发平台分离【重点】
 	* [系统文档](https://hancode.yuque.com/ibi3kw/qzp9ku/ywwzqm)
@@ -125,6 +125,8 @@
 * [壹伴](https://yiban.io/)
 * [创客贴](https://www.chuangkit.com/)
 * [点石](https://www.h5ds.com/)
+* [Chameleon Engine](https://github.com/hlerenow/chameleon)
+  * 高自由度的可视化编辑引擎
 * 腾讯-tmagic-editor
   * [开源的页面可视化搭建编辑器tmagic-editor](https://github.com/Tencent/tmagic-editor)
 * 京东-通天塔
@@ -139,7 +141,7 @@
 * [百度-h5](https://h5.bce.baidu.com/)
   * [前端即服务-通向零成本开发之路](https://os.alipayobjects.com/rmsportal/sJqXvOtwePsVWGNIwlas.pdf)
 * 政采云-鲁班
-  * [前端工程实践之可视化搭建系统（一）](https://juejin.im/post/5d8774bff265da03ae78b2a1)  
+  * [前端工程实践之可视化搭建系统（一）](https://juejin.im/post/5d8774bff265da03ae78b2a1)
 * 携程-民宿CMS
   * [活动专题系统搭建过程中我的一些思考](https://www.dazhuanlan.com/2019/10/07/5d9a698bdde35/)
 * 携程-乐高
@@ -157,7 +159,7 @@
 * [乐搭云](https://ledayun.com.cn/)
 * [愚公](https://yugong.dawenxi.art/dashboard/#/project)
 * [榫卯（sunmao-ui）](https://sunmao-ui.com/)
-  
+
 ## 店铺装修
 
 非独立页面，依附于业务系统存在的页面搭建
@@ -165,7 +167,7 @@
 * [shopify](https://apps.shopify.com/browse/store-design-page-builders)
 * 有赞-微页面
 * 淘宝店铺装修
-  
+
 ## ![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)
 
 * [阿里-飞冰](https://ice.work/)
@@ -200,7 +202,7 @@
 * [vue-admin](https://github.com/jiangshanmeta/vue-admin)
 * [鲁班 H5](https://github.com/ly525/luban-h5)
 * [华炎魔方](https://github.com/steedos/steedos-platform/)
-  * [低代码 DevOps 平台协议](https://low-code-protocol.com/docs/overview) 
+  * [低代码 DevOps 平台协议](https://low-code-protocol.com/docs/overview)
 * [h5-factory](https://github.com/yangyuji/h5-factory)
   * [一个简单易用的电商活动页面生成系统](https://juejin.im/post/5cf328706fb9a07f042030f0)
 * [vision](https://github.com/tuoxiansp/vision)
@@ -279,9 +281,9 @@
 * [对 aPaaS 的产品认知](https://zhuanlan.zhihu.com/p/149801853)
 * [无代码编程](https://zhuanlan.zhihu.com/p/61288928)
 * [万物代码化：从低代码、云开发到云研发的思考](https://zhuanlan.zhihu.com/p/141742525)
-* [《早早聊搞搭建》搞过搭建的我收获了什么？](https://juejin.im/post/6844904106767695880) 
+* [《早早聊搞搭建》搞过搭建的我收获了什么？](https://juejin.im/post/6844904106767695880)
 * [工程化之低代码体系](https://juejin.cn/post/6913698066935578631)
-* [LowCode平台前端实战之京东投放素材中心](https://zhuanlan.zhihu.com/p/386761240) 
+* [LowCode平台前端实战之京东投放素材中心](https://zhuanlan.zhihu.com/p/386761240)
 
 ## 技术点
 
@@ -361,8 +363,8 @@
     * 性能优化往往需要破坏局部性，因为局部的自治容易引起重复劳动
       * 【局部化IO】系统自动实现 I/O 的批量等可以自动化做的全局优化
       * 【局部化IO】业务写成自治的，但是可以附加额外的手工全局调优。而不是强制要求把业务逻辑从局部抽出去
-      
-## How we perceive 
+
+## How we perceive
 
 * 人眼只能在狭窄的感受野里获得信息
   * 人对时间的感知是来自于对空间的感知
@@ -379,8 +381,8 @@
         * 【IDE按需索引】由 IDE 来补全文件夹分类不能满足的索引需求，针对阅读者的任务来设计IDE索引
   * 视杆细胞容易忽略形状和顺序的差异，但是对颜色更敏感
     * 语法高亮占用了宝贵的资源，但是并没有考虑阅读者的诉求
-      * 【IDE按需高亮】对于不同的任务，阅读者希望找到的重点是不同的，语法高亮应该结合任务来做 
-      
+      * 【IDE按需高亮】对于不同的任务，阅读者希望找到的重点是不同的，语法高亮应该结合任务来做
+
 ## How we collaborate
 
 * 人与人之间最高效的沟通的方式是面对面的交互式声波震动
@@ -421,7 +423,7 @@
           * 电商
           * HR / 招聘
           * 销售管理 / CRM
-          
+
 ## How we learn
 
 * 人的“归纳/理解/学习”能力高度依赖于可视化交互式地操纵与反馈
@@ -445,7 +447,7 @@
         * 【LanguageServer】交互式开发的时候跳过不必要的编译
         * 【所见即所得】所见即所得的 GUI 开发，本质上就是用解释器执行，换取编译时间的缩减
         * 【HMR】重加载的时候保持页面状态
-        
+
 # no code / low code / pro code
 
 一切的改进都是源自于人类的缺陷
