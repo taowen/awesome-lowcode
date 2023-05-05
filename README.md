@@ -238,7 +238,7 @@
 * https://github.com/bojue/Web-Editor
 * [OpenDataV - 基于Vue3的拖拽式、低代码数据可视化平台](https://github.com/AnsGoo/openDataV)
 * [StaringOS MtBird](https://github.com/staringos/mtbird): 开源小程序、H5、网站低代码平台，无需代码，拖拽操作快速生成页面应用，数据可视化接入，定制业务自由拓展.
-
+* [quick-boot](https://github.com/csx-bill/quick-boot): 基于 Spring Cloud 2022 、Spring Boot 3、AMIS 和 APIJSON 的低代码系统.
 ---
 
 * https://github.com/blocks/blocks
