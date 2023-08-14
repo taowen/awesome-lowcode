@@ -48,6 +48,7 @@
   * [闪电数据管理 —— 无代码数据管理(开发)系统](https://zhuanlan.zhihu.com/p/162964986)
   * [lightning —— 基于Django的无代码Admin及低代码开发框架](https://github.com/git-men/lightning)
 * [巴克云](https://www.buckycloud.com/)
+* [轻魔方](https://team.qingmofang.cn/)
 * [数式科技](https://shushi.pro/technology)
 * [明道云](https://www.mingdao.com/) 支持公共云和私有部署，私有部署在Github可获得[免费社区版下载](https://github.com/mingdaocom/private-deployment)
 * [轻流](https://qingflow.com/)
