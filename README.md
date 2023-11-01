@@ -38,7 +38,7 @@
   * [氚云](https://h3yun.com/index.php?g=Chuanyun&m=Index&a=index)
 * [ivx](https://www.ivx.cn/index)
   * [关于iVX平台实现的总体技术栈【低代码/无代码、可视化开发语言】](https://blog.csdn.net/troymeng/article/details/110384703)
-  * [iVX是怎么开发出来的？0代码开发的理论基础是什么？](https://bbs.ivx.cn/1535)
+  * [iVX是怎么开发出来的？0代码开发的理论基础是什么？](https://zhuanlan.zhihu.com/p/100838156)
   * [iVX和其他低代码的开发平台区别究竟在哪里](https://bbs.ivx.cn/mobile/2746)
   * [如何正确全面评价一个低代码平台？分析数十家国内外低代码平台得出的经验](https://devpress.csdn.net/low-code/645e124b59eeb95b5bb9b0e1.html)
   * [对程序员最友好的低代码平台——iVX（个人开发者终身免费）](https://devpress.csdn.net/low-code/647d9cd2762a09416a07f613.html)
