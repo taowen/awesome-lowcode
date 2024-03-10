@@ -309,6 +309,7 @@
 * [可视化拖拽组件库一些技术要点原理分析（二）](https://juejin.cn/post/6918881497264947207)
 * [可视化拖拽组件库一些技术要点原理分析（三）](https://juejin.cn/post/6929302655118344200)
 * [可视化拖拽组件库一些技术要点原理分析（四）](https://juejin.cn/post/7129311619963682830)
+* [低代码与大语言模型的探索实践](https://github.com/woai3c/Front-end-articles/issues/45)
 * [揭秘活字格最受程序员喜爱的三大功能背后的设计思路](https://www.grapecity.com.cn/blogs/huozige-the-three-most-popular-features-for-programmers)
 
 ## 国外
