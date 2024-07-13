@@ -124,6 +124,10 @@
   * [低代码引擎官网](https://opentiny.design/tiny-engine#/home)
   * [Github](https://github.com/opentiny/tiny-engine)
   * [低代码平台在线体验](https://opentiny.design/tiny-engine#/tiny-engine-editor)
+* cool-admin Ai极速编码，已支持Node、Java
+  * [官网](https://cool-js.com/)
+  * [Github](https://github.com/cool-team-official)
+  * [在线体验](https://show.cool-admin.com/helper/ai-code)
 
 ## 页面搭建
 
