@@ -245,7 +245,7 @@
 * [rebuild](https://gitee.com/getrebuild/rebuild)
 * [W5 SOAR](https://github.com/w5teams/w5)
 * [Moria - Lowcode development platform](https://github.com/MudOnTire/moria)
-* [nocobase](https://github.com/nocobase/nocobase)
+* [NocoBase](https://github.com/nocobase/nocobase)：极易扩展的无代码开发平台
 * [Mall-Cook](https://github.com/wangyuan389/mall-cook)
 * [全象低代码平台渲染引擎 Artery Renderer](https://github.com/quanxiang-cloud/one-for-all/tree/main/packages/artery-renderer)
 * https://github.com/bojue/Web-Editor
