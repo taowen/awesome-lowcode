@@ -124,6 +124,10 @@
   * [低代码引擎官网](https://opentiny.design/tiny-engine#/home)
   * [Github](https://github.com/opentiny/tiny-engine)
   * [低代码平台在线体验](https://opentiny.design/tiny-engine#/tiny-engine-editor)
+* [LuBase](https://lubase.cn)
+  	* [Gitee](https://gitee.com/lubase)
+	* 框架简介：以数据模型驱动，可视化表单和页面设计，内置工作流引擎以及集多应用管理功能于一体的软件快速开发工具。
+	* 框架定位：面向开发人员，针对管理软件领域，对页面交互和通用功能进行高阶封装，逐步打造成平台型、生态型开发工具。
 
 ## 页面搭建
 
