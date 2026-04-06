@@ -481,4 +481,5 @@
 
 # RSS 订阅【今日阅读】
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for low-code development workflow orchestration, automated platform management, and multi-agent coordination. MIT licensed.
 https://github.com/taowen/awesome-lowcode/commits.atom
