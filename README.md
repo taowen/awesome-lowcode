@@ -131,6 +131,7 @@
   	* [Gitee](https://gitee.com/lubase)
 	* 框架简介：以数据模型驱动，可视化表单和页面设计，内置工作流引擎以及集多应用管理功能于一体的软件快速开发工具。
 	* 框架定位：面向开发人员，针对管理软件领域，对页面交互和通用功能进行高阶封装，逐步打造成平台型、生态型开发工具。
+* [数式-Oinone](https://github.com/oinone/oinone-pamirs) - AI 原生低代码研发框架，100% 元数据/模型驱动，让 AI 与开发者在同一套元数据模型中协作；面向复杂业务与企业级深度二次开发，支持私有化与信创国产化，前后端开源。 | [Gitee](https://gitee.com/oinone/oinone-pamirs) | [官网](https://www.oinone.top)
 
 ## 页面搭建
 
