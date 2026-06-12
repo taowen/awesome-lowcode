@@ -131,6 +131,10 @@
   	* [Gitee](https://gitee.com/lubase)
 	* 框架简介：以数据模型驱动，可视化表单和页面设计，内置工作流引擎以及集多应用管理功能于一体的软件快速开发工具。
 	* 框架定位：面向开发人员，针对管理软件领域，对页面交互和通用功能进行高阶封装，逐步打造成平台型、生态型开发工具。
+* [Erupt](https://github.com/erupts/erupt)
+  * 注解驱动的 Java 全栈低代码引擎，一个类即一个权限感知的 Admin 页面，零前端代码。已开源 AI 模块，原生支持 50+ LLM、MCP 与 A2A 协议。
+  * [在线 Demo](https://demo.erupt.xyz)｜[文档](https://docs.erupt.xyz)
+  * [Gitee](https://gitee.com/erupt/erupt)
 
 ## 页面搭建
 
