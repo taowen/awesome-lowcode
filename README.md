@@ -360,6 +360,7 @@
 * https://help.appsheet.com/en/
 * https://appery.io/
 * [ERD Lab](https://www.erdlab.io/) - Free cloud based entity relationship diagram (ERD) tool made for developers.
+* [LiveContext](https://livecontext.ai/) - Self-hosted AI automation platform: describe a job in chat to build a workflow, run it with scoped, budgeted AI agents, and ship it as an app. 600+ integrations, fair-code.
 
 # 一切改进都是源自于人类的缺陷
 
