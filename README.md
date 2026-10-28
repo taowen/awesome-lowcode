@@ -360,6 +360,7 @@
 * https://help.appsheet.com/en/
 * https://appery.io/
 * [ERD Lab](https://www.erdlab.io/) - Free cloud based entity relationship diagram (ERD) tool made for developers.
+* [Heym](https://github.com/heymrun/heym) - 可自托管的 AI Agent 工作流运行平台，提供可视化编排、人工审批、MCP 工具和执行追踪。采用附带 Commons Clause 条件的 MIT 许可。
 
 # 一切改进都是源自于人类的缺陷
 
